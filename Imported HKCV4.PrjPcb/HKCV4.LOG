@@ -1,8 +1,168 @@
 Importer Log Report
 Project : Group
 
-Section : Analyze Document - \\wsl.localhost\Ubuntu-24.04\home\jverga\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4 connector\HKCV4.sch
-    Analyzing data of \\wsl.localhost\Ubuntu-24.04\home\jverga\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4 connector\HKCV4.sch
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\74xx-little-us.lbr
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\74xx-little-us.lbr
+    Load settings
+    Load layers 145
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\Ben_Library.lbr
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\Ben_Library.lbr
+    Load settings
+    Load layers 145
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\con-jst2.lbr
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\con-jst2.lbr
+    Load settings
+    Load layers 145
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\con-lstb.lbr
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\con-lstb.lbr
+    Load settings
+    Load layers 145
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\con-molex-micro-fit-3_0.lbr
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\con-molex-micro-fit-3_0.lbr
+    Load settings
+    Load layers 145
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\con-molex-spox.lbr
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\con-molex-spox.lbr
+    Load settings
+    Load layers 145
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\dc-dc-converter.lbr
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\dc-dc-converter.lbr
+    Load settings
+    Load layers 145
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\rcl.lbr
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\rcl.lbr
+    Load settings
+    Load layers 145
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 6
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\sc_usercreated.lbr
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\sc_usercreated.lbr
+    Load settings
+    Load layers 145
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 2
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\SparkFun-LED.lbr
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\SparkFun-LED.lbr
+    Load settings
+    Load layers 145
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\SparkFun-Passives.lbr
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\SparkFun-Passives.lbr
+    Load settings
+    Load layers 145
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 0
+    Load DeviceSets 0
+EndSection
+
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4 connector\HKCV4.brd
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4 connector\HKCV4.brd
+    Load settings
+    Load layers 145
+    Load board
+    Load Library "SparkFun-LED"
+    Load Packages 1
+    Load Library "rcl"
+    Load Packages 5
+    Load Library "BenLibrary"
+    Load Packages 6
+    Load Library "diode"
+    Load Packages 1
+    Load Library "transistor-power"
+    Load Packages 1
+    Load Library "SparkFun-Passives"
+    Load Packages 1
+    Load Library "sc_usercreated"
+    Load Packages 1
+    Load Library "con-jst2"
+    Load Packages 1
+    Load Library "inductor-bourns"
+    Load Packages 1
+    Load Library "Ben_Library"
+    Load Packages 2
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4 connector\HKCV4.sch
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4 connector\HKCV4.sch
     Load settings
     Load layers 145
     Load schematic
@@ -61,8 +221,38 @@ Section : Analyze Document - \\wsl.localhost\Ubuntu-24.04\home\jverga\Helium_Ele
     Load Sheets 1
 EndSection
 
-Section : Analyze Document - \\wsl.localhost\Ubuntu-24.04\home\jverga\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4 connector\HKCV4_eagle\HKCV4.sch
-    Analyzing data of \\wsl.localhost\Ubuntu-24.04\home\jverga\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4 connector\HKCV4_eagle\HKCV4.sch
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4 connector\HKCV4_eagle\HKCV4.brd
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4 connector\HKCV4_eagle\HKCV4.brd
+    Load settings
+    Load layers 145
+    Load board
+    Load Library "SparkFun-LED"
+    Load Packages 1
+    Load Library "rcl"
+    Load Packages 5
+    Load Library "BenLibrary"
+    Load Packages 6
+    Load Library "diode"
+    Load Packages 1
+    Load Library "transistor-power"
+    Load Packages 1
+    Load Library "SparkFun-Passives"
+    Load Packages 1
+    Load Library "sc_usercreated"
+    Load Packages 1
+    Load Library "con-jst2"
+    Load Packages 1
+    Load Library "inductor-bourns"
+    Load Packages 1
+    Load Library "Ben_Library"
+    Load Packages 1
+    Load Library "con-molex-spox"
+    Load Packages 1
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4 connector\HKCV4_eagle\HKCV4.sch
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4 connector\HKCV4_eagle\HKCV4.sch
     Load settings
     Load layers 145
     Load schematic
@@ -125,8 +315,34 @@ Section : Analyze Document - \\wsl.localhost\Ubuntu-24.04\home\jverga\Helium_Ele
     Load Sheets 1
 EndSection
 
-Section : Analyze Document - \\wsl.localhost\Ubuntu-24.04\home\jverga\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4\HKCV4.sch
-    Analyzing data of \\wsl.localhost\Ubuntu-24.04\home\jverga\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4\HKCV4.sch
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4\HKCV4.brd
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4\HKCV4.brd
+    Load settings
+    Load layers 145
+    Load board
+    Load Library "SparkFun-LED"
+    Load Packages 1
+    Load Library "rcl"
+    Load Packages 6
+    Load Library "BenLibrary"
+    Load Packages 6
+    Load Library "diode"
+    Load Packages 1
+    Load Library "transistor-power"
+    Load Packages 1
+    Load Library "SparkFun-Passives"
+    Load Packages 1
+    Load Library "sc_usercreated"
+    Load Packages 1
+    Load Library "con-jst2"
+    Load Packages 2
+    Load Library "inductor-bourns"
+    Load Packages 1
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4\HKCV4.sch
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4\HKCV4.sch
     Load settings
     Load layers 145
     Load schematic
@@ -181,8 +397,21 @@ Section : Analyze Document - \\wsl.localhost\Ubuntu-24.04\home\jverga\Helium_Ele
     Load Sheets 1
 EndSection
 
-Section : Analyze Document - \\wsl.localhost\Ubuntu-24.04\home\jverga\Helium_Electronics\SPIne-master\SPIne_V2\ConnectorMezzanine\mc_spine_con.sch
-    Analyzing data of \\wsl.localhost\Ubuntu-24.04\home\jverga\Helium_Electronics\SPIne-master\SPIne_V2\ConnectorMezzanine\mc_spine_con.sch
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\ConnectorMezzanine\mc_spine_con.brd
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\ConnectorMezzanine\mc_spine_con.brd
+    Load settings
+    Load layers 145
+    Load board
+    Load Library "Ben_Library"
+    Load Packages 4
+    Load Library "con-lstb"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    ERROR: Unhandled typemfgpreviewcolors
+EndSection
+
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\ConnectorMezzanine\mc_spine_con.sch
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\ConnectorMezzanine\mc_spine_con.sch
     Load settings
     Load layers 145
     Load schematic
@@ -203,8 +432,42 @@ Section : Analyze Document - \\wsl.localhost\Ubuntu-24.04\home\jverga\Helium_Ele
     Load Sheets 1
 EndSection
 
-Section : Analyze Document - \\wsl.localhost\Ubuntu-24.04\home\jverga\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\spine.sch
-    Analyzing data of \\wsl.localhost\Ubuntu-24.04\home\jverga\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\spine.sch
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\spine.brd
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\spine.brd
+    Load settings
+    Load layers 147
+    Load board
+    Load Library "BenLibrary"
+    Load Packages 3
+    Load Library "rcl"
+    Load Packages 6
+    Load Library "SparkFun-Passives"
+    Load Packages 1
+    Load Library "SparkFun-LED"
+    Load Packages 1
+    Load Library "sc_usercreated"
+    Load Packages 2
+    Load Library "con-molex-micro-fit-3_0"
+    Load Packages 1
+    Load Library "dc-dc-converter"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Library "74xx-little-us"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Library "con-jst2"
+    Load Packages 1
+    Load Library "con-lstb"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Library "rcl"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    ERROR: Unhandled typemfgpreviewcolors
+EndSection
+
+Section : Analyze Document - N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\spine.sch
+    Analyzing data of N:\PDBs_Helium\Helium_Electronics\SPIne-master\SPIne_V2\SPIne\spine.sch
     Load settings
     Load layers 147
     Load schematic
@@ -361,4 +624,19 @@ Section : Analyze Document - \\wsl.localhost\Ubuntu-24.04\home\jverga\Helium_Ele
     Load Classes 1
     Load Parts 71
     Load Sheets 3
+    ERROR: Unhandled typedescription
+    ERROR: Unhandled typedescription
+    ERROR: Unhandled typedescription
+EndSection
+
+Section : Import Document - N:\PDBs_Helium\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4 connector\HKCV4.brd
+    ERROR: Exception raised! Catastrophic failure
+EndSection
+
+Section : Import Document - N:\PDBs_Helium\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4 connector\HKCV4_eagle\HKCV4.brd
+    ERROR: Exception raised! Catastrophic failure
+EndSection
+
+Section : Import Document - N:\PDBs_Helium\Helium_Electronics\3phase_integrated-master\New Version\Cheetah Driver Integrated V4\HKCV4.brd
+    ERROR: Exception raised! Catastrophic failure
 EndSection
