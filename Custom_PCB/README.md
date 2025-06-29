@@ -54,7 +54,7 @@ Key components used in this design include:
 | Component | Part Number | Function |
 | :--- | :--- | :--- |
 | Hot-Swap Controller | `LM5069` (or equivalent) | Per-channel power management. |
-| Power MOSFET | `[Your MOSFET Part Number]` | High-current switching for each motor. |
+| Power MOSFET | `CSD19536KTT` | High-current switching for each motor. |
 | CAN Controller | `MCP2517FD-H/SL` | SPI to CAN translation. |
 | Digital Isolator | `ISO7742FTBDWRQ1` | Provides signal and power isolation for CAN bus. |
 | Logic Power Supply | `TSR 1-2450E` | Creates the 5V logic rail from battery voltage. |
