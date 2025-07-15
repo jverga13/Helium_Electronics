@@ -1,0 +1,36 @@
+Importer Log Report
+Project : spine.PrjPcb
+
+Section : Analyze Document - N:\newer_SPINE\SPIne-master\SPIne_V2\SPIne\spine.brd
+    Analyzing data of N:\newer_SPINE\SPIne-master\SPIne_V2\SPIne\spine.brd
+    Load settings
+    Load layers 147
+    Load board
+    Load Library "BenLibrary"
+    Load Packages 3
+    Load Library "rcl"
+    Load Packages 6
+    Load Library "SparkFun-Passives"
+    Load Packages 1
+    Load Library "SparkFun-LED"
+    Load Packages 1
+    Load Library "sc_usercreated"
+    Load Packages 2
+    Load Library "con-molex-micro-fit-3_0"
+    Load Packages 1
+    Load Library "dc-dc-converter"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Library "74xx-little-us"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Library "con-jst2"
+    Load Packages 1
+    Load Library "con-lstb"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    Load Library "rcl"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    ERROR: Unhandled typemfgpreviewcolors
+EndSection
