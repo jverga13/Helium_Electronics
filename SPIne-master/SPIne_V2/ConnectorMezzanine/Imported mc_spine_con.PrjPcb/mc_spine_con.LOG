@@ -1,0 +1,19 @@
+Importer Log Report
+Project : mc_spine_con.PrjPcb
+
+Section : Analyze Document - N:\newer_SPINE\SPIne-master\SPIne_V2\ConnectorMezzanine\mc_spine_con.brd
+    Analyzing data of N:\newer_SPINE\SPIne-master\SPIne_V2\ConnectorMezzanine\mc_spine_con.brd
+    Load settings
+    Load layers 145
+    Load board
+    Load Library "Ben_Library"
+    Load Packages 4
+    Load Library "con-lstb"
+    Load Packages 1
+    ERROR: Unhandled typepackages3d
+    ERROR: Unhandled typemfgpreviewcolors
+EndSection
+
+Section : Import Document - N:\newer_SPINE\SPIne-master\SPIne_V2\ConnectorMezzanine\mc_spine_con.brd
+    ERROR: Exception raised! Catastrophic failure
+EndSection
