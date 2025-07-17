@@ -1,0 +1,3 @@
+[submodule "mc-psu-v3"]
+	path = mc-psu-v3
+	url = https://github.com/bgkatz/mc-psu-v3.git
