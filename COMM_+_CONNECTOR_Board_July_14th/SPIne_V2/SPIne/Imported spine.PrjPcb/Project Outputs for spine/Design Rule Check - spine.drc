@@ -1,12 +1,159 @@
 Protel Design System Design Rule Check
 PCB File : N:\newer_SPINE\Helium_Electronics\COMM_+_CONNECTOR_Board_July_14th\SPIne_V2\SPIne\Imported spine.PrjPcb\spine.PcbDoc
-Date     : 7/17/2025
-Time     : 5:31:57 PM
+Date     : 7/21/2025
+Time     : 11:50:29 AM
+
+WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
+   Polygon named: Polygon_1_Net_GND In net GND On Bottom
+   Polygon named: Polygon_1_Net_CAN3_GND In net CAN3_GND On Bottom
+   Polygon named: Polygon_1_Net_CAN4_GND In net CAN4_GND On Bottom
+   Polygon named: Polygon_1_Net_CAN2_GND In net CAN2_GND On Bottom
+   Polygon named: Polygon_1_Net_CAN1_GND In net CAN1_GND On Bottom
+   Polygon named: Polygon_1_Net_3V3 In net 3V3 On Top
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+   Violation between Clearance Constraint: (8.15mil < 10mil) Between Pad C41-2(522.834mil,1028.734mil) on Top And Track (524.818mil,1071.025mil)(532.304mil,1063.539mil) on Top 
+   Violation between Clearance Constraint: (8.15mil < 10mil) Between Pad C41-2(522.834mil,1028.734mil) on Top And Track (532.304mil,1063.539mil)(547.966mil,1063.539mil) on Top 
+   Violation between Clearance Constraint: (8.15mil < 10mil) Between Pad C41-2(522.834mil,1028.734mil) on Top And Track (547.966mil,1063.539mil)(555.669mil,1055.835mil) on Top 
+   Violation between Clearance Constraint: (8.15mil < 10mil) Between Pad C41-2(522.834mil,1028.734mil) on Top And Track (555.669mil,1047.001mil)(555.669mil,1055.835mil) on Top 
+   Violation between Clearance Constraint: (8.15mil < 10mil) Between Pad C41-2(522.834mil,1028.734mil) on Top And Track (555.669mil,1047.001mil)(559.359mil,1043.31mil) on Top 
    Violation between Clearance Constraint: (9.84mil < 10mil) Between Pad IC1-1(1431.1mil,2466.54mil) on Top And Pad IC1-2(1431.1mil,2492.13mil) on Top 
    Violation between Clearance Constraint: (9.84mil < 10mil) Between Pad IC1-2(1431.1mil,2492.13mil) on Top And Pad IC1-3(1431.1mil,2517.72mil) on Top 
-Rule Violations :2
+   Violation between Clearance Constraint: (9.68mil < 10mil) Between Pad U$1-60(763.78mil,2151.97mil) on Top And Track (744.77mil,2166.655mil)(744.77mil,2178.188mil) on Top 
+   Violation between Clearance Constraint: (8.488mil < 10mil) Between Pad U$3-11(606.3mil,964.57mil) on Top And Track (560.63mil,970.076mil)(573.465mil,957.241mil) on Top 
+   Violation between Clearance Constraint: (8.488mil < 10mil) Between Pad U$3-11(606.3mil,964.57mil) on Top And Track (573.465mil,954.793mil)(573.465mil,957.241mil) on Top 
+   Violation between Clearance Constraint: (8.15mil < 10mil) Between Pad U$3-11(606.3mil,964.57mil) on Top And Track (573.465mil,954.793mil)(582.198mil,946.06mil) on Top 
+   Violation between Clearance Constraint: (9.18mil < 10mil) Between Pad U$3-11(606.3mil,964.57mil) on Top And Track (582.198mil,946.06mil)(605.12mil,946.06mil) on Top 
+   Violation between Clearance Constraint: (9.18mil < 10mil) Between Pad U$3-11(606.3mil,964.57mil) on Top And Track (605.12mil,946.06mil)(606.3mil,944.88mil) on Top 
+   Violation between Clearance Constraint: (9.752mil < 10mil) Between Pad U$3-12(606.3mil,944.88mil) on Top And Track (580.32mil,925.98mil)(606.3mil,925.2mil) on Top 
+   Violation between Clearance Constraint: (9.18mil < 10mil) Between Pad U$3-5(606.3mil,1082.68mil) on Top And Track (570.386mil,1064.17mil)(605.12mil,1064.17mil) on Top 
+   Violation between Clearance Constraint: (9.18mil < 10mil) Between Pad U$3-5(606.3mil,1082.68mil) on Top And Track (605.12mil,1064.17mil)(606.3mil,1062.99mil) on Top 
+   Violation between Clearance Constraint: (8.15mil < 10mil) Between Pad U$3-61(744.1mil,1240.16mil) on Top And Track (714.633mil,1207.325mil)(753.877mil,1207.325mil) on Top 
+   Violation between Clearance Constraint: (8.15mil < 10mil) Between Pad U$3-61(744.1mil,1240.16mil) on Top And Track (753.877mil,1207.325mil)(762.81mil,1216.258mil) on Top 
+   Violation between Clearance Constraint: (9.38mil < 10mil) Between Pad U$3-61(744.1mil,1240.16mil) on Top And Track (762.81mil,1216.258mil)(762.81mil,1239.19mil) on Top 
+   Violation between Clearance Constraint: (9.38mil < 10mil) Between Pad U$3-61(744.1mil,1240.16mil) on Top And Track (762.81mil,1239.19mil)(763.78mil,1240.16mil) on Top 
+   Violation between Clearance Constraint: (9.17mil < 10mil) Between Pad U$3-62(724.41mil,1240.16mil) on Top And Track (704.72mil,1240.16mil)(705.91mil,1238.97mil) on Top 
+   Violation between Clearance Constraint: (9.17mil < 10mil) Between Pad U$3-62(724.41mil,1240.16mil) on Top And Track (705.91mil,1220.955mil)(705.91mil,1238.97mil) on Top 
+   Violation between Clearance Constraint: (8.161mil < 10mil) Between Pad U$3-62(724.41mil,1240.16mil) on Top And Track (705.91mil,1220.955mil)(706.93mil,1219.935mil) on Top 
+   Violation between Clearance Constraint: (8.161mil < 10mil) Between Pad U$3-62(724.41mil,1240.16mil) on Top And Track (706.93mil,1215.028mil)(706.93mil,1219.935mil) on Top 
+   Violation between Clearance Constraint: (8.15mil < 10mil) Between Pad U$3-62(724.41mil,1240.16mil) on Top And Track (706.93mil,1215.028mil)(714.633mil,1207.325mil) on Top 
+   Violation between Clearance Constraint: (8.15mil < 10mil) Between Pad U$3-62(724.41mil,1240.16mil) on Top And Track (714.633mil,1207.325mil)(753.877mil,1207.325mil) on Top 
+   Violation between Clearance Constraint: (9.69mil < 10mil) Between Track (1007.48mil,885.83mil)(1059.06mil,885.83mil) on Top And Track (1059.06mil,837.8mil)(1059.06mil,866.14mil) on Top 
+   Violation between Clearance Constraint: (9.68mil < 10mil) Between Track (1014.96mil,1122.05mil)(1059.06mil,1122.05mil) on Top And Track (996.903mil,1141.73mil)(1059.06mil,1141.73mil) on Top 
+   Violation between Clearance Constraint: (9.68mil < 10mil) Between Track (1021.65mil,2033.86mil)(1059.06mil,2033.86mil) on Top And Track (997.64mil,2053.54mil)(1059.06mil,2053.54mil) on Top 
+   Violation between Clearance Constraint: (8.898mil < 10mil) Between Track (328.35mil,1994.49mil)(368.502mil,2034.642mil) on Bottom And Track (360.641mil,2053.539mil)(938.579mil,2053.539mil) on Bottom 
+   Violation between Clearance Constraint: (8.898mil < 10mil) Between Track (360.641mil,2053.539mil)(938.579mil,2053.539mil) on Bottom And Track (368.502mil,2034.642mil)(925.988mil,2034.642mil) on Bottom 
+   Violation between Clearance Constraint: (8.898mil < 10mil) Between Track (360.641mil,2053.539mil)(938.579mil,2053.539mil) on Bottom And Track (925.988mil,2034.642mil)(964.57mil,1996.06mil) on Bottom 
+   Violation between Clearance Constraint: (8.737mil < 10mil) Between Track (501.228mil,1071.025mil)(524.818mil,1071.025mil) on Top And Track (510.24mil,1096.06mil)(516.533mil,1089.762mil) on Top 
+   Violation between Clearance Constraint: (8.737mil < 10mil) Between Track (501.228mil,1071.025mil)(524.818mil,1071.025mil) on Top And Track (516.533mil,1089.762mil)(529.133mil,1089.762mil) on Top 
+   Violation between Clearance Constraint: (7.643mil < 10mil) Between Track (501.228mil,1071.025mil)(524.818mil,1071.025mil) on Top And Track (529.133mil,1089.762mil)(531.569mil,1087.325mil) on Top 
+   Violation between Clearance Constraint: (7.643mil < 10mil) Between Track (501.228mil,1071.025mil)(524.818mil,1071.025mil) on Top And Track (531.569mil,1087.325mil)(544.168mil,1087.325mil) on Top 
+   Violation between Clearance Constraint: (8.737mil < 10mil) Between Track (516.533mil,1089.762mil)(529.133mil,1089.762mil) on Top And Track (524.818mil,1071.025mil)(532.304mil,1063.539mil) on Top 
+   Violation between Clearance Constraint: (7.643mil < 10mil) Between Track (524.818mil,1071.025mil)(532.304mil,1063.539mil) on Top And Track (529.133mil,1089.762mil)(531.569mil,1087.325mil) on Top 
+   Violation between Clearance Constraint: (7.643mil < 10mil) Between Track (524.818mil,1071.025mil)(532.304mil,1063.539mil) on Top And Track (531.569mil,1087.325mil)(544.168mil,1087.325mil) on Top 
+   Violation between Clearance Constraint: (9.084mil < 10mil) Between Track (531.569mil,1087.325mil)(544.168mil,1087.325mil) on Top And Track (560.632mil,1096.975mil)(560.632mil,1196.848mil) on Top 
+   Violation between Clearance Constraint: (9.084mil < 10mil) Between Track (531.569mil,1087.325mil)(544.168mil,1087.325mil) on Top And Track (560.632mil,1096.975mil)(561.469mil,1096.139mil) on Top 
+   Violation between Clearance Constraint: (9.416mil < 10mil) Between Track (531.569mil,1087.325mil)(544.168mil,1087.325mil) on Top And Track (561.469mil,1096.139mil)(561.469mil,1096.139mil) on Top 
+   Violation between Clearance Constraint: (9.416mil < 10mil) Between Track (531.569mil,1087.325mil)(544.168mil,1087.325mil) on Top And Track (561.469mil,1096.139mil)(573.537mil,1084.07mil) on Top 
+   Violation between Clearance Constraint: (6.712mil < 10mil) Between Track (532.304mil,1063.539mil)(547.966mil,1063.539mil) on Top And Track (544.168mil,1087.325mil)(551.654mil,1079.839mil) on Top 
+   Violation between Clearance Constraint: (6.712mil < 10mil) Between Track (532.304mil,1063.539mil)(547.966mil,1063.539mil) on Top And Track (551.654mil,1079.839mil)(554.717mil,1079.839mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (532.304mil,1063.539mil)(547.966mil,1063.539mil) on Top And Track (554.717mil,1079.839mil)(570.386mil,1064.17mil) on Top 
+   Violation between Clearance Constraint: (9.68mil < 10mil) Between Track (532.675mil,1995.453mil)(553.328mil,1974.8mil) on Top And Track (544.724mil,1955.12mil)(606.3mil,1955.12mil) on Top 
+   Violation between Clearance Constraint: (6.712mil < 10mil) Between Track (544.168mil,1087.325mil)(551.654mil,1079.839mil) on Top And Track (547.966mil,1063.539mil)(555.669mil,1055.835mil) on Top 
+   Violation between Clearance Constraint: (8.466mil < 10mil) Between Track (544.168mil,1087.325mil)(551.654mil,1079.839mil) on Top And Track (560.632mil,1096.975mil)(560.632mil,1196.848mil) on Top 
+   Violation between Clearance Constraint: (8.466mil < 10mil) Between Track (544.168mil,1087.325mil)(551.654mil,1079.839mil) on Top And Track (560.632mil,1096.975mil)(561.469mil,1096.139mil) on Top 
+   Violation between Clearance Constraint: (8.466mil < 10mil) Between Track (544.168mil,1087.325mil)(551.654mil,1079.839mil) on Top And Track (561.469mil,1096.139mil)(561.469mil,1096.139mil) on Top 
+   Violation between Clearance Constraint: (8.466mil < 10mil) Between Track (544.168mil,1087.325mil)(551.654mil,1079.839mil) on Top And Track (561.469mil,1096.139mil)(573.537mil,1084.07mil) on Top 
+   Violation between Clearance Constraint: (9.68mil < 10mil) Between Track (544.724mil,1955.12mil)(606.3mil,1955.12mil) on Top And Track (553.328mil,1974.8mil)(606.3mil,1974.8mil) on Top 
+   Violation between Clearance Constraint: (6.712mil < 10mil) Between Track (547.966mil,1063.539mil)(555.669mil,1055.835mil) on Top And Track (551.654mil,1079.839mil)(554.717mil,1079.839mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (547.966mil,1063.539mil)(555.669mil,1055.835mil) on Top And Track (554.717mil,1079.839mil)(570.386mil,1064.17mil) on Top 
+   Violation between Clearance Constraint: (6.913mil < 10mil) Between Track (547.966mil,1063.539mil)(555.669mil,1055.835mil) on Top And Track (570.386mil,1064.17mil)(605.12mil,1064.17mil) on Top 
+   Violation between Clearance Constraint: (8.129mil < 10mil) Between Track (551.654mil,1079.839mil)(554.717mil,1079.839mil) on Top And Track (560.632mil,1096.975mil)(560.632mil,1196.848mil) on Top 
+   Violation between Clearance Constraint: (7.643mil < 10mil) Between Track (551.654mil,1079.839mil)(554.717mil,1079.839mil) on Top And Track (560.632mil,1096.975mil)(561.469mil,1096.139mil) on Top 
+   Violation between Clearance Constraint: (7.643mil < 10mil) Between Track (551.654mil,1079.839mil)(554.717mil,1079.839mil) on Top And Track (561.469mil,1096.139mil)(561.469mil,1096.139mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (551.654mil,1079.839mil)(554.717mil,1079.839mil) on Top And Track (561.469mil,1096.139mil)(573.537mil,1084.07mil) on Top 
+   Violation between Clearance Constraint: (9.29mil < 10mil) Between Track (551.654mil,1079.839mil)(554.717mil,1079.839mil) on Top And Track (573.537mil,1084.07mil)(574.74mil,1084.07mil) on Top 
+   Violation between Clearance Constraint: (9.69mil < 10mil) Between Track (553.328mil,1974.8mil)(606.3mil,1974.8mil) on Top And Track (556.69mil,2000.348mil)(562.548mil,1994.49mil) on Top 
+   Violation between Clearance Constraint: (9.69mil < 10mil) Between Track (553.328mil,1974.8mil)(606.3mil,1974.8mil) on Top And Track (562.548mil,1994.49mil)(606.3mil,1994.49mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (554.717mil,1079.839mil)(570.386mil,1064.17mil) on Top And Track (555.669mil,1047.001mil)(555.669mil,1055.835mil) on Top 
+   Violation between Clearance Constraint: (8.129mil < 10mil) Between Track (554.717mil,1079.839mil)(570.386mil,1064.17mil) on Top And Track (560.632mil,1096.975mil)(560.632mil,1196.848mil) on Top 
+   Violation between Clearance Constraint: (7.643mil < 10mil) Between Track (554.717mil,1079.839mil)(570.386mil,1064.17mil) on Top And Track (560.632mil,1096.975mil)(561.469mil,1096.139mil) on Top 
+   Violation between Clearance Constraint: (7.643mil < 10mil) Between Track (554.717mil,1079.839mil)(570.386mil,1064.17mil) on Top And Track (561.469mil,1096.139mil)(561.469mil,1096.139mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (554.717mil,1079.839mil)(570.386mil,1064.17mil) on Top And Track (561.469mil,1096.139mil)(573.537mil,1084.07mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (554.717mil,1079.839mil)(570.386mil,1064.17mil) on Top And Track (573.537mil,1084.07mil)(574.74mil,1084.07mil) on Top 
+   Violation between Clearance Constraint: (8.15mil < 10mil) Between Track (554.717mil,1079.839mil)(570.386mil,1064.17mil) on Top And Track (574.74mil,1084.07mil)(575.799mil,1083.01mil) on Top 
+   Violation between Clearance Constraint: (8.15mil < 10mil) Between Track (554.717mil,1079.839mil)(570.386mil,1064.17mil) on Top And Track (575.799mil,1083.01mil)(605.97mil,1083.01mil) on Top 
+   Violation between Clearance Constraint: (6.913mil < 10mil) Between Track (555.669mil,1047.001mil)(555.669mil,1055.835mil) on Top And Track (570.386mil,1064.17mil)(605.12mil,1064.17mil) on Top 
+   Violation between Clearance Constraint: (9.68mil < 10mil) Between Track (559.359mil,1043.31mil)(606.3mil,1043.31mil) on Top And Track (605.12mil,1064.17mil)(606.3mil,1062.99mil) on Top 
+   Violation between Clearance Constraint: (9.9mil < 10mil) Between Track (561.469mil,1096.139mil)(573.537mil,1084.07mil) on Top And Track (570.386mil,1064.17mil)(605.12mil,1064.17mil) on Top 
+   Violation between Clearance Constraint: (9.68mil < 10mil) Between Track (568.5mil,1699.21mil)(685.04mil,1699.21mil) on Top And Track (704.72mil,1630.32mil)(704.72mil,1699.21mil) on Top 
+   Violation between Clearance Constraint: (9.9mil < 10mil) Between Track (570.386mil,1064.17mil)(605.12mil,1064.17mil) on Top And Track (573.537mil,1084.07mil)(574.74mil,1084.07mil) on Top 
+   Violation between Clearance Constraint: (9.84mil < 10mil) Between Track (570.386mil,1064.17mil)(605.12mil,1064.17mil) on Top And Track (574.74mil,1084.07mil)(575.799mil,1083.01mil) on Top 
+   Violation between Clearance Constraint: (9.84mil < 10mil) Between Track (570.386mil,1064.17mil)(605.12mil,1064.17mil) on Top And Track (575.799mil,1083.01mil)(605.97mil,1083.01mil) on Top 
+   Violation between Clearance Constraint: (9.548mil < 10mil) Between Track (570.386mil,1064.17mil)(605.12mil,1064.17mil) on Top And Track (605.97mil,1083.01mil)(606.3mil,1082.68mil) on Top 
+   Violation between Clearance Constraint: (9.84mil < 10mil) Between Track (575.799mil,1083.01mil)(605.97mil,1083.01mil) on Top And Track (605.12mil,1064.17mil)(606.3mil,1062.99mil) on Top 
+   Violation between Clearance Constraint: (9.671mil < 10mil) Between Track (580.32mil,925.98mil)(606.3mil,925.2mil) on Top And Track (605.12mil,946.06mil)(606.3mil,944.88mil) on Top 
+   Violation between Clearance Constraint: (9.671mil < 10mil) Between Track (580.32mil,925.98mil)(606.3mil,925.2mil) on Top And Track (606.3mil,944.88mil)(718.5mil,944.88mil) on Top 
+   Violation between Clearance Constraint: (9.548mil < 10mil) Between Track (605.12mil,1064.17mil)(606.3mil,1062.99mil) on Top And Track (605.97mil,1083.01mil)(606.3mil,1082.68mil) on Top 
+   Violation between Clearance Constraint: (9.68mil < 10mil) Between Track (606.41mil,787.4mil)(685.04mil,787.4mil) on Top And Track (704.72mil,709.06mil)(704.72mil,787.4mil) on Top 
+   Violation between Clearance Constraint: (9.69mil < 10mil) Between Track (704.72mil,1240.16mil)(704.72mil,1319.69mil) on Top And Track (724.41mil,1240.16mil)(724.41mil,1272.44mil) on Top 
+   Violation between Clearance Constraint: (9.69mil < 10mil) Between Track (704.72mil,1240.16mil)(704.72mil,1319.69mil) on Top And Track (724.41mil,1272.44mil)(749.61mil,1297.64mil) on Top 
+   Violation between Clearance Constraint: (8.538mil < 10mil) Between Track (704.72mil,1240.16mil)(705.91mil,1238.97mil) on Top And Track (724.41mil,1240.16mil)(724.41mil,1272.44mil) on Top 
+   Violation between Clearance Constraint: (8.538mil < 10mil) Between Track (705.91mil,1220.955mil)(705.91mil,1238.97mil) on Top And Track (724.41mil,1240.16mil)(724.41mil,1272.44mil) on Top 
+   Violation between Clearance Constraint: (9.69mil < 10mil) Between Track (723.62mil,1772.44mil)(744.09mil,1751.97mil) on Top And Track (763.78mil,1699.21mil)(763.78mil,1794.09mil) on Top 
+   Violation between Clearance Constraint: (9.68mil < 10mil) Between Track (724.41mil,1240.16mil)(724.41mil,1272.44mil) on Top And Track (744.09mil,1240.16mil)(744.09mil,1266.924mil) on Top 
+   Violation between Clearance Constraint: (9.68mil < 10mil) Between Track (724.41mil,1240.16mil)(724.41mil,1272.44mil) on Top And Track (744.09mil,1266.924mil)(758.506mil,1281.34mil) on Top 
+   Violation between Clearance Constraint: (7.817mil < 10mil) Between Track (724.41mil,1272.44mil)(749.61mil,1297.64mil) on Top And Track (744.09mil,1240.16mil)(744.09mil,1266.924mil) on Top 
+   Violation between Clearance Constraint: (7.817mil < 10mil) Between Track (724.41mil,1272.44mil)(749.61mil,1297.64mil) on Top And Track (744.09mil,1266.924mil)(758.506mil,1281.34mil) on Top 
+   Violation between Clearance Constraint: (7.817mil < 10mil) Between Track (724.41mil,1272.44mil)(749.61mil,1297.64mil) on Top And Track (758.506mil,1281.34mil)(934.884mil,1281.34mil) on Top 
+   Violation between Clearance Constraint: (8.745mil < 10mil) Between Track (744.09mil,1240.16mil)(744.09mil,1266.924mil) on Top And Track (762.81mil,1216.258mil)(762.81mil,1239.19mil) on Top 
+   Violation between Clearance Constraint: (8.745mil < 10mil) Between Track (744.09mil,1240.16mil)(744.09mil,1266.924mil) on Top And Track (762.81mil,1239.19mil)(763.78mil,1240.16mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (744.09mil,1266.924mil)(758.506mil,1281.34mil) on Top And Track (749.61mil,1297.64mil)(875.59mil,1297.64mil) on Top 
+   Violation between Clearance Constraint: (9.69mil < 10mil) Between Track (744.09mil,1699.21mil)(744.09mil,1751.97mil) on Top And Track (763.78mil,1699.21mil)(763.78mil,1794.09mil) on Top 
+   Violation between Clearance Constraint: (9.69mil < 10mil) Between Track (744.09mil,787.4mil)(744.09mil,870.08mil) on Top And Track (763.78mil,787.4mil)(763.78mil,866.718mil) on Top 
+   Violation between Clearance Constraint: (9.69mil < 10mil) Between Track (744.09mil,787.4mil)(744.09mil,870.08mil) on Top And Track (763.78mil,866.718mil)(786.296mil,889.234mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (744.09mil,870.08mil)(768.502mil,894.492mil) on Top And Track (763.78mil,787.4mil)(763.78mil,866.718mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (744.09mil,870.08mil)(768.502mil,894.492mil) on Top And Track (763.78mil,866.718mil)(786.296mil,889.234mil) on Top 
+   Violation between Clearance Constraint: (7.794mil < 10mil) Between Track (744.09mil,870.08mil)(768.502mil,894.492mil) on Top And Track (786.296mil,889.234mil)(786.296mil,1101.256mil) on Top 
+   Violation between Clearance Constraint: (9.68mil < 10mil) Between Track (747.64mil,1810.24mil)(763.78mil,1794.09mil) on Top And Track (783.46mil,1699.21mil)(783.46mil,1801.97mil) on Top 
+   Violation between Clearance Constraint: (9.708mil < 10mil) Between Track (747.64mil,1810.24mil)(763.78mil,1794.09mil) on Top And Via (789.76mil,1808.27mil) from Top to Bottom 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (749.61mil,1297.64mil)(875.59mil,1297.64mil) on Top And Track (758.506mil,1281.34mil)(934.884mil,1281.34mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (758.506mil,1281.34mil)(934.884mil,1281.34mil) on Top And Track (875.59mil,1297.64mil)(894.49mil,1316.54mil) on Top 
+   Violation between Clearance Constraint: (9.68mil < 10mil) Between Track (763.78mil,1699.21mil)(763.78mil,1794.09mil) on Top And Track (783.46mil,1699.21mil)(783.46mil,1801.97mil) on Top 
+   Violation between Clearance Constraint: (9.708mil < 10mil) Between Track (763.78mil,1699.21mil)(763.78mil,1794.09mil) on Top And Via (789.76mil,1808.27mil) from Top to Bottom 
+   Violation between Clearance Constraint: (9.68mil < 10mil) Between Track (763.78mil,787.4mil)(763.78mil,866.718mil) on Top And Track (783.46mil,787.4mil)(783.46mil,863.347mil) on Top 
+   Violation between Clearance Constraint: (9.68mil < 10mil) Between Track (763.78mil,787.4mil)(763.78mil,866.718mil) on Top And Track (783.46mil,863.347mil)(802.596mil,882.483mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (763.78mil,866.718mil)(786.296mil,889.234mil) on Top And Track (768.502mil,894.492mil)(768.502mil,1117.769mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (763.78mil,866.718mil)(786.296mil,889.234mil) on Top And Track (783.46mil,787.4mil)(783.46mil,863.347mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (763.78mil,866.718mil)(786.296mil,889.234mil) on Top And Track (783.46mil,863.347mil)(802.596mil,882.483mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (763.78mil,866.718mil)(786.296mil,889.234mil) on Top And Track (802.596mil,882.483mil)(802.596mil,1073.462mil) on Top 
+   Violation between Clearance Constraint: (7.794mil < 10mil) Between Track (768.502mil,894.492mil)(768.502mil,1117.769mil) on Top And Track (786.296mil,1101.256mil)(816.05mil,1131.01mil) on Top 
+   Violation between Clearance Constraint: (7.794mil < 10mil) Between Track (768.502mil,894.492mil)(768.502mil,1117.769mil) on Top And Track (786.296mil,889.234mil)(786.296mil,1101.256mil) on Top 
+   Violation between Clearance Constraint: (9.69mil < 10mil) Between Track (783.46mil,1699.21mil)(783.46mil,1801.97mil) on Top And Track (803.15mil,1699.21mil)(803.15mil,1764.57mil) on Top 
+   Violation between Clearance Constraint: (9.69mil < 10mil) Between Track (783.46mil,1699.21mil)(783.46mil,1801.97mil) on Top And Track (803.15mil,1764.57mil)(812.99mil,1774.41mil) on Top 
+   Violation between Clearance Constraint: (9.64mil < 10mil) Between Track (783.46mil,1699.21mil)(783.46mil,1801.97mil) on Top And Via (812.99mil,1774.41mil) from Top to Bottom 
+   Violation between Clearance Constraint: (9.69mil < 10mil) Between Track (783.46mil,787.4mil)(783.46mil,863.347mil) on Top And Track (803.15mil,787.4mil)(803.15mil,859.985mil) on Top 
+   Violation between Clearance Constraint: (9.69mil < 10mil) Between Track (783.46mil,787.4mil)(783.46mil,863.347mil) on Top And Track (803.15mil,859.985mil)(818.896mil,875.731mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (783.46mil,863.347mil)(802.596mil,882.483mil) on Top And Track (786.296mil,889.234mil)(786.296mil,1101.256mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (783.46mil,863.347mil)(802.596mil,882.483mil) on Top And Track (803.15mil,787.4mil)(803.15mil,859.985mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (783.46mil,863.347mil)(802.596mil,882.483mil) on Top And Track (803.15mil,859.985mil)(818.896mil,875.731mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (783.46mil,863.347mil)(802.596mil,882.483mil) on Top And Track (818.896mil,875.731mil)(818.896mil,1064.565mil) on Top 
+   Violation between Clearance Constraint: (8.861mil < 10mil) Between Track (786.296mil,1101.256mil)(816.05mil,1131.01mil) on Top And Via (776.27mil,1131.89mil) from Top to Bottom 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (786.296mil,889.234mil)(786.296mil,1101.256mil) on Top And Track (802.596mil,1073.462mil)(844.09mil,1114.956mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (786.296mil,889.234mil)(786.296mil,1101.256mil) on Top And Track (802.596mil,882.483mil)(802.596mil,1073.462mil) on Top 
+   Violation between Clearance Constraint: (7.817mil < 10mil) Between Track (802.596mil,1073.462mil)(844.09mil,1114.956mil) on Top And Track (818.896mil,1064.565mil)(871.487mil,1117.156mil) on Top 
+   Violation between Clearance Constraint: (7.817mil < 10mil) Between Track (802.596mil,1073.462mil)(844.09mil,1114.956mil) on Top And Track (818.896mil,875.731mil)(818.896mil,1064.565mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (802.596mil,882.483mil)(802.596mil,1073.462mil) on Top And Track (803.15mil,859.985mil)(818.896mil,875.731mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (802.596mil,882.483mil)(802.596mil,1073.462mil) on Top And Track (818.896mil,1064.565mil)(871.487mil,1117.156mil) on Top 
+   Violation between Clearance Constraint: (6.3mil < 10mil) Between Track (802.596mil,882.483mil)(802.596mil,1073.462mil) on Top And Track (818.896mil,875.731mil)(818.896mil,1064.565mil) on Top 
+   Violation between Clearance Constraint: (7.817mil < 10mil) Between Track (818.896mil,1064.565mil)(871.487mil,1117.156mil) on Top And Track (844.09mil,1114.956mil)(844.09mil,1133.783mil) on Top 
+   Violation between Clearance Constraint: (8.15mil < 10mil) Between Track (844.09mil,1114.956mil)(844.09mil,1133.783mil) on Top And Via (816.05mil,1131.89mil) from Top to Bottom 
+   Violation between Clearance Constraint: (8.214mil < 10mil) Between Track (844.09mil,1133.783mil)(846.313mil,1161.273mil) on Top And Via (816.05mil,1131.89mil) from Top to Bottom 
+   Violation between Clearance Constraint: (9.69mil < 10mil) Between Track (940.94mil,1625.59mil)(940.94mil,1699.21mil) on Top And Track (960.63mil,1699.21mil)(960.63mil,1751.97mil) on Top 
+   Violation between Clearance Constraint: (9.69mil < 10mil) Between Track (940.94mil,715.75mil)(940.94mil,787.4mil) on Top And Track (960.63mil,787.4mil)(960.63mil,842.91mil) on Top 
+   Violation between Clearance Constraint: (9.68mil < 10mil) Between Track (983.86mil,1996.06mil)(1021.65mil,2033.86mil) on Top And Track (997.64mil,2053.54mil)(1059.06mil,2053.54mil) on Top 
+   Violation between Clearance Constraint: (9.68mil < 10mil) Between Track (988.98mil,1096.06mil)(1014.96mil,1122.05mil) on Top And Track (996.903mil,1141.73mil)(1059.06mil,1141.73mil) on Top 
+Rule Violations :141
 
 Processing Rule : Clearance Constraint (Gap=10mil) (InPolygon),(All)
 Rule Violations :0
@@ -18,13 +165,43 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (Disabled)(All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
+   Violation between Un-Routed Net Constraint: Net CAN4_RX Between Track (1346.89mil,2236.22mil)(1346.89mil,2265.872mil) on Top And Pad U$11-3(1416.93mil,2237.2mil) on Top 
+Rule Violations :1
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
-Rule Violations :0
+   Violation between Modified Polygon: Polygon Shelved  (Polygon_1_Net_3V3) on Top 
+   Violation between Modified Polygon: Polygon Shelved  (Polygon_1_Net_CAN1_GND) on Bottom 
+   Violation between Modified Polygon: Polygon Shelved  (Polygon_1_Net_CAN2_GND) on Bottom 
+   Violation between Modified Polygon: Polygon Shelved  (Polygon_1_Net_CAN3_GND) on Bottom 
+   Violation between Modified Polygon: Polygon Shelved  (Polygon_1_Net_CAN4_GND) on Bottom 
+   Violation between Modified Polygon: Polygon Shelved  (Polygon_1_Net_GND) on Bottom 
+Rule Violations :6
 
-Processing Rule : Width Constraint (Min=6mil) (Max=400mil) (Preferred=8mil) (All)
-Rule Violations :0
+Processing Rule : Width Constraint (Min=10mil) (Max=400mil) (Preferred=10mil) (All)
+   Violation between Width Constraint: Arc (768.502mil,2299.208mil) on Bottom Actual Width = 6.3mil, Target Width = 10mil
+   Violation between Width Constraint: Arc (846.797mil,1454.277mil) on Top Actual Width = 6.3mil, Target Width = 10mil
+   Violation between Width Constraint: Track (1096.06mil,1318.9mil)(1102.36mil,1318.9mil) on Bottom Actual Width = 7.87mil, Target Width = 10mil
+   Violation between Width Constraint: Track (472.44mil,1919.29mil)(501.97mil,1938.98mil) on Bottom Actual Width = 9.84mil, Target Width = 10mil
+   Violation between Width Constraint: Track (538.98mil,1352.36mil)(616.93mil,1352.36mil) on Top Actual Width = 9.84mil, Target Width = 10mil
+   Violation between Width Constraint: Track (574.74mil,1084.07mil)(575.799mil,1083.01mil) on Top Actual Width = 8mil, Target Width = 10mil
+   Violation between Width Constraint: Track (575.799mil,1083.01mil)(605.97mil,1083.01mil) on Top Actual Width = 8mil, Target Width = 10mil
+   Violation between Width Constraint: Track (605.97mil,1083.01mil)(606.3mil,1082.68mil) on Top Actual Width = 8mil, Target Width = 10mil
+   Violation between Width Constraint: Track (606.3mil,1161.42mil)(616.6mil,1161.42mil) on Top Actual Width = 8mil, Target Width = 10mil
+   Violation between Width Constraint: Track (611.42mil,2180.71mil)(680.32mil,2180.32mil) on Top Actual Width = 9.84mil, Target Width = 10mil
+   Violation between Width Constraint: Track (616.6mil,1161.42mil)(616.93mil,1161.75mil) on Top Actual Width = 8mil, Target Width = 10mil
+   Violation between Width Constraint: Track (616.93mil,1161.75mil)(616.93mil,1285.44mil) on Top Actual Width = 8mil, Target Width = 10mil
+   Violation between Width Constraint: Track (718.5mil,944.88mil)(728.35mil,944.88mil) on Bottom Actual Width = 9.84mil, Target Width = 10mil
+   Violation between Width Constraint: Track (754.61mil,1525.59mil)(790.08mil,1557.874mil) on Bottom Actual Width = 7.87mil, Target Width = 10mil
+   Violation between Width Constraint: Track (763.39mil,1617.2mil)(767.05mil,1617.2mil) on Top Actual Width = 9.84mil, Target Width = 10mil
+   Violation between Width Constraint: Track (790.08mil,1557.874mil)(792.626mil,1560.421mil) on Bottom Actual Width = 7.87mil, Target Width = 10mil
+   Violation between Width Constraint: Track (792.626mil,1560.421mil)(792.626mil,1564.333mil) on Bottom Actual Width = 7.87mil, Target Width = 10mil
+   Violation between Width Constraint: Track (824.02mil,707.36mil)(831.61mil,708.66mil) on Top Actual Width = 9.84mil, Target Width = 10mil
+   Violation between Width Constraint: Track (87.8mil,1526.38mil)(87.8mil,1529.53mil) on Bottom Actual Width = 9.84mil, Target Width = 10mil
+   Violation between Width Constraint: Track (886.61mil,639.37mil)(891.85mil,638.31mil) on Top Actual Width = 9.84mil, Target Width = 10mil
+   Violation between Width Constraint: Track (938.581mil,1285.037mil)(942.773mil,1289.229mil) on Bottom Actual Width = 7.87mil, Target Width = 10mil
+   Violation between Width Constraint: Track (942.773mil,1289.229mil)(949.072mil,1289.229mil) on Bottom Actual Width = 7.87mil, Target Width = 10mil
+   Violation between Width Constraint: Track (949.072mil,1289.229mil)(949.213mil,1289.37mil) on Bottom Actual Width = 7.87mil, Target Width = 10mil
+Rule Violations :23
 
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=16mil) (Conductor Width=6mil) (Air Gap=6mil) (Entries=4) (All)
 Rule Violations :0
@@ -48,7 +225,26 @@ Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-Rule Violations :0
+   Violation between Net Antennae: Track (1346.89mil,2236.22mil)(1346.89mil,2265.872mil) on Top 
+   Violation between Net Antennae: Track (1474.02mil,2444.09mil)(1511.81mil,2444.36mil) on Bottom 
+   Violation between Net Antennae: Track (1637.8mil,925.98mil)(1669.29mil,888.19mil) on Bottom 
+   Violation between Net Antennae: Track (1662.99mil,1505.51mil)(1675.59mil,1486.61mil) on Bottom 
+   Violation between Net Antennae: Track (1662.99mil,327.56mil)(1688.19mil,327.56mil) on Bottom 
+   Violation between Net Antennae: Track (472.44mil,1919.29mil)(501.97mil,1938.98mil) on Bottom 
+   Violation between Net Antennae: Track (472.44mil,1919.29mil)(501.97mil,1938.98mil) on Bottom 
+   Violation between Net Antennae: Track (482.28mil,1161.42mil)(489.76mil,1177.17mil) on Bottom 
+   Violation between Net Antennae: Track (482.28mil,1161.42mil)(489.76mil,1177.17mil) on Bottom 
+   Violation between Net Antennae: Track (666.14mil,1358.27mil)(748.03mil,1368.11mil) on Bottom 
+   Violation between Net Antennae: Track (960.63mil,842.91mil)(1023.62mil,856.3mil) on Bottom 
+   Violation between Net Antennae: Via (1037.793mil,2234.642mil) from Top to Bottom 
+   Violation between Net Antennae: Via (554.33mil,1889.76mil) from Top to Bottom 
+   Violation between Net Antennae: Via (665.35mil,2285.43mil) from Top to Bottom 
+   Violation between Net Antennae: Via (718.5mil,944.88mil) from Top to Bottom 
+   Violation between Net Antennae: Via (748.43mil,2095.67mil) from Top to Bottom 
+   Violation between Net Antennae: Via (773.62mil,528.35mil) from Top to Bottom 
+   Violation between Net Antennae: Via (946.85mil,538.58mil) from Top to Bottom 
+   Violation between Net Antennae: Via (960.63mil,1751.97mil) from Top to Bottom 
+Rule Violations :19
 
 Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
    Violation between Board Outline Clearance(Cutout Edge): (Collision < 15mil) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad Free-MH1(472.05mil,229.92mil) on Multi-Layer 
@@ -58,6 +254,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 3
+Violations Detected : 191
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
