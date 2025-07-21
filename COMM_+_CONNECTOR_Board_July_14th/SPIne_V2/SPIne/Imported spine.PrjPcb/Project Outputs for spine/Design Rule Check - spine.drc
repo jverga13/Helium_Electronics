@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : N:\newer_SPINE\Helium_Electronics\COMM_+_CONNECTOR_Board_July_14th\SPIne_V2\SPIne\Imported spine.PrjPcb\spine.PcbDoc
 Date     : 7/21/2025
-Time     : 1:23:29 PM
+Time     : 1:36:13 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
    Violation between Clearance Constraint: (9.84mil < 10mil) Between Pad IC1-1(1431.1mil,2466.54mil) on Top And Pad IC1-2(1431.1mil,2492.13mil) on Top 
@@ -18,8 +18,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (Disabled)(All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad C32-1(708.66mil,638.19mil) on Top And Pad U$3-19(724.41mil,787.4mil) on Top 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -59,6 +58,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 4
+Violations Detected : 3
 Waived Violations : 0
 Time Elapsed        : 00:00:02
