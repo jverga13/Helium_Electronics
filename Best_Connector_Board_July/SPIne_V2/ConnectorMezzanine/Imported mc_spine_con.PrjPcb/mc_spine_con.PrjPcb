@@ -65,6 +65,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KHOVNJOA
 
+[Document2]
+DocumentPath=mc_spine_con.sch
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JVSEKSCJ
+
 [GeneratedDocument1]
 DocumentPath=mc_spine_con.LOG
 DItemRevisionGUID=
