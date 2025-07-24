@@ -1,0 +1,87 @@
+# Created by Ultra Librarian 8.3.372 Copyright © 1999-2024
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "FC68148S_CLF")
+Pad (Name "1") (Location -216.5354, -143.5708999) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 118, 79) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location -216.5354, 92.6497001) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 118, 79) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "3") (Location 216.5354, -143.5708999) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 118, 79) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "4") (Location 216.5354, 92.6497001) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 118, 79) (Shape Rectangular) (Layer Top)
+EndPad
+Line (Width 6) (Start -285.53549194, 299.50000191) (End -285.53549194, -299.49999809) (Layer Mechanical15) 
+Line (Width 6) (Start -285.53549194, -299.49999809) (End 285.53549194, -299.49999809) (Layer Mechanical15) 
+Line (Width 6) (Start 285.53549194, -299.49999809) (End 285.53549194, 299.50000191) (Layer Mechanical15) 
+Line (Width 6) (Start 285.53549194, 299.50000191) (End -285.53549194, 299.50000191) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-285.53549194, 299.50000191)
+Point (-285.53549194, -299.49999809)
+Point (285.53549194, -299.49999809)
+Point (285.53549194, 299.50000191)
+EndPolygon
+Line (Width 6) (Start -257, -294.49999809) (End 257, -294.49999809) (Layer TopOverlay) 
+Line (Width 6) (Start 257, -294.49999809) (End 257, -196.17090028) (Layer TopOverlay) 
+Line (Width 6) (Start 257, 294.50000191) (End -257, 294.50000191) (Layer TopOverlay) 
+Line (Width 6) (Start -257, 294.50000191) (End -257, 145.24970048) (Layer TopOverlay) 
+Line (Width 6) (Start -257, -196.17090028) (End -257, -294.49999809) (Layer TopOverlay) 
+Line (Width 6) (Start -257, 40.04969972) (End -257, -90.97089952) (Layer TopOverlay) 
+Line (Width 6) (Start 257, -90.97089952) (End 257, 40.04969972) (Layer TopOverlay) 
+Line (Width 6) (Start 257, 145.24970048) (End 257, 294.50000191) (Layer TopOverlay) 
+Arc (Width 20) (Radius 15) (Location -282, -143.57089806) (StartAngle 155.37120056) (EndAngle 204.62881088) (Layer TopOverlay) 
+Text (Location -75, -50.4605999) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "RefDes")
+Line (Width 1) (Start -252, -289.49999809) (End 252, -289.49999809) (Layer Mechanical13) 
+Line (Width 1) (Start 252, -289.49999809) (End 252, 289.50000191) (Layer Mechanical13) 
+Line (Width 1) (Start 252, 289.50000191) (End -252, 289.50000191) (Layer Mechanical13) 
+Line (Width 1) (Start -252, 289.50000191) (End -252, -289.49999809) (Layer Mechanical13) 
+Arc (Width 20) (Radius 15) (Location -216.53540039, -218.57090569) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Text (Location -87.5, -50.4605999) (Height 50) (Width 3) (Rotation 0) (Layer Mechanical13) (Value "RefDes2")
+Text (Location -87.5, -50.4605999) (Height 50) (Width 3) (Rotation 0) (Layer TopOverlay) (Value "REFDES")
+Arc (Width 20) (Radius 15) (Location -282, -143.57089806) (StartAngle 0) (EndAngle 360) (Layer BottomOverlay) 
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "FC68148S") (PartCount 1) (DesPrefix "J?")
+Pin (Location -300, -300) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "1") (Name Hidden "1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location -300, -200) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "2") (Name Hidden "2") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Pin (Location -300, 0) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "3") (Name Hidden "3") (PinSwap 0) (PartSwap 0) (PinSeq 3) (Part 1)
+Pin (Location -300, -100) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "4") (Name Hidden "4") (PinSwap 0) (PartSwap 0) (PinSeq 4) (Part 1)
+Line (Width 5) (Start -300, -300) (End -1050, -300) (Part 1)
+Line (Width 5) (Start -1100, -200) (End -1100, 0) (Part 1)
+Line (Width 5) (Start -1100, 0) (End -1000, 0) (Part 1)
+Line (Width 5) (Start -1000, 0) (End -1000, -200) (Part 1)
+Line (Width 5) (Start -300, -200) (End -400, -200) (Part 1)
+Line (Width 5) (Start -400, -200) (End -400, -300) (Part 1)
+Line (Width 5) (Start -300, -100) (End -500, -100) (Part 1)
+Line (Width 5) (Start -500, -100) (End -500, -200) (Part 1)
+Line (Width 5) (Start -500, -200) (End -800, -200) (Part 1)
+Line (Width 5) (Start -800, -200) (End -850, -150) (Part 1)
+Line (Width 5) (Start -850, -150) (End -900, -200) (Part 1)
+Line (Width 5) (Start -300, 0) (End -750, 0) (Part 1)
+Line (Width 5) (Start -750, 0) (End -750, -200) (Part 1)
+Line (Width 5) (Start -1100, -200) (End -1000, -200) (Part 1)
+Line (Width 5) (Start -1050, -200) (End -1050, -300) (Part 1)
+Rectangle (Width 5) (Start -1300, -500) (End -300, 200) (Part 1)
+Polygon (PointCount 3) (Part 1)
+Point (-750, -200)
+Point (-700, -100)
+Point (-800, -100)
+EndPolygon
+Parameter (Name "Copyright") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Copyright (C) 2025 Ultra Librarian. All rights reserved.") (Part 1)
+Parameter (Name "Manufacturer_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Cliff") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "FC68148S") (Part 1)
+Parameter (Name "RefDes") (Location -800, 400) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location -800, 300) (Height 82) (Rotation 0) (Justification Center) (Value "Type") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Comment (Value "FC68148S") (Part 1)
+Footprint (Name "FC68148S_CLF")
+EndComponent
+EndComponents
