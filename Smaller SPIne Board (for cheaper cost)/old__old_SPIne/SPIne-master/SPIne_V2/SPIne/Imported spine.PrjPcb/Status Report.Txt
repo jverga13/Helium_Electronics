@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[spine_v2_smaller.GTO]
+   Generated File[spine_v2_smaller.GTP]
+   Generated File[spine_v2_smaller.GTS]
+   Generated File[spine_v2_smaller.GTL]
+   Generated File[spine_v2_smaller.GBL]
+   Generated File[spine_v2_smaller.GBS]
+   Generated File[spine_v2_smaller.GBP]
+   Generated File[spine_v2_smaller.GBO]
+   Generated File[spine_v2_smaller.GM]
+   Generated File[spine_v2_smaller.EXTREP]
+   Generated File[spine_v2_smaller.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 12:35:17 PM On 7/28/2025
