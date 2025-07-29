@@ -31,4 +31,5 @@ For a complete breakdown of the original board's design, components, and system 
 <img width="822" height="987" alt="image (5)" src="https://github.com/user-attachments/assets/7a28f79e-760c-4ac3-b113-77467ea25711" />
 <img width="887" height="1292" alt="image (6)" src="https://github.com/user-attachments/assets/970997ed-c6d9-4fd0-8a8c-8684efc36fea" />
 
+<img width="10010" height="8688" alt="NotebookLM Mind Map (4)" src="https://github.com/user-attachments/assets/37095343-2e7a-47da-9bbc-5e49c5c7a38d" />
 
