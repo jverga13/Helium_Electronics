@@ -26,6 +26,5 @@ For a complete breakdown of the original board's design, components, and system 
 
 **[📄 Helium Project - SPIne System Details](https://www.notion.so/atombot/The-Helium-Project-1a723e66a3218009b606e8f94d7b40a9?p=22423e66a321802cb875cee111c35315&pm=s)**
 
-![image.png](attachment:5059c1e0-8a82-4f9f-a1fb-df0599b6cf46:image.png)
-![image.png](attachment:45956e1d-d19f-4957-a9c0-c7620f4a7438:image.png)
-![image.png](attachment:06098951-5fd1-4e71-976e-251163ffe08e:image.png)
+<img width="822" height="987" alt="image (5)" src="https://github.com/user-attachments/assets/7a28f79e-760c-4ac3-b113-77467ea25711" />
+
