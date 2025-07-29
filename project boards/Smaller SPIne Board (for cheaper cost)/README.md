@@ -24,6 +24,8 @@ The core features of the original design include:
 
 For a complete breakdown of the original board's design, components, and system architecture, please see the full documentation on Notion:
 
+**[📄FAQ Document](https://docs.google.com/document/d/1BTmc7MTexFd-CQ0lYXevFovfLc9VMLDNh9eOhk8kmDs/edit?usp=sharing)**
+
 **[📄 Helium Project - SPIne System Details](https://www.notion.so/atombot/The-Helium-Project-1a723e66a3218009b606e8f94d7b40a9?p=22423e66a321802cb875cee111c35315&pm=s)**
 
 **[📄 Original Github of SPIne Board](https://github.com/bgkatz/SPIne/tree/master/SPIne_V2)**
