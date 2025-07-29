@@ -1,14 +1,10 @@
-# 3phase_integrated
-3-phase motor controller with integrated position sensor
-Firmware here:
-https://os.mbed.com/users/benkatz/code/Hobbyking_Cheetah_Compact/
+## 3-Phase Brushless Motor Controller (V4)
 
-Firmware for new versions with DRV8323:
-https://os.mbed.com/users/benkatz/code/HKC_MiniCheetah/
+Hardware design files for the Cheetah V4 integrated motor controller.
 
-Documentation for using the motor drive:
-https://docs.google.com/document/d/1dzNVzblz6mqB3eZVEMyi2MtSngALHdgpTaDJIW_BpS4/edit?usp=sharing
+### Status: Archived ⚠️
 
+This design is a legacy project and is **not in active use**. We have transitioned to using motors with integrated controllers, which makes this external controller board unnecessary for current projects.
 
-New non-mbed firmware:
-https://github.com/bgkatz/motorcontrol
+### Related Documentation
+- **Target Motor Datasheet:** [SteadyWin GIM6010-8 Manual](https://sdalal1.github.io/assets/pdf/SteadyWin_GIM6010-8_Manual_rev1.pdf)
