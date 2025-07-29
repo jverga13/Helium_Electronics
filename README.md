@@ -14,3 +14,7 @@ Images of path below.
 <img width="2422" height="2500" alt="image" src="https://github.com/user-attachments/assets/a09163c2-33f7-4e58-ae3e-3d4ef1daaa0b" />
 
 
+**Electronics Logic Flow**
+<img width="5632" height="13437" alt="NotebookLM Mind Map (5)" src="https://github.com/user-attachments/assets/7446fd42-b92e-4fb4-8c5c-51976fda7cb2" />
+
+
