@@ -25,6 +25,7 @@ The core features of the original design include:
 For a complete breakdown of the original board's design, components, and system architecture, please see the full documentation on Notion:
 
 **[📄 Helium Project - SPIne System Details](https://www.notion.so/atombot/The-Helium-Project-1a723e66a3218009b606e8f94d7b40a9?p=22423e66a321802cb875cee111c35315&pm=s)**
+Original github repo: https://github.com/bgkatz/SPIne/tree/master/SPIne_V2
 
 <img width="822" height="987" alt="image (5)" src="https://github.com/user-attachments/assets/7a28f79e-760c-4ac3-b113-77467ea25711" />
 <img width="887" height="1292" alt="image (6)" src="https://github.com/user-attachments/assets/970997ed-c6d9-4fd0-8a8c-8684efc36fea" />
