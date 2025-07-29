@@ -6,7 +6,6 @@ This directory contains the design files for a modified, cost-reduced version of
 The primary goal of this version is to lower costs and simplify in-house manufacturing.
 
 - **Reduced Size:** The PCB dimensions have been significantly decreased to lower the cost of fabrication.
-- **Optimized for CNC:** The layout is designed for milling on a Carvera CNC machine.
 - **Simplified Assembly:** Uses solder pads for connections instead of full components where possible.
 
 ---
@@ -26,3 +25,7 @@ The core features of the original design include:
 For a complete breakdown of the original board's design, components, and system architecture, please see the full documentation on Notion:
 
 **[📄 Helium Project - SPIne System Details](https://www.notion.so/atombot/The-Helium-Project-1a723e66a3218009b606e8f94d7b40a9?p=22423e66a321802cb875cee111c35315&pm=s)**
+
+![image.png](attachment:5059c1e0-8a82-4f9f-a1fb-df0599b6cf46:image.png)
+![image.png](attachment:45956e1d-d19f-4957-a9c0-c7620f4a7438:image.png)
+![image.png](attachment:06098951-5fd1-4e71-976e-251163ffe08e:image.png)
