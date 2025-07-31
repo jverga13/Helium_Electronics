@@ -5,11 +5,11 @@ The paper on which we are basing the majority of the electronics system is avail
 
 The primary difference between the MIT Paper and our project is that we will be utilizing a camera and LiDAR for navigation, and we are employing "smarter" motors with their built-in motor controllers. 
 
-**[Motor Datasheet](https://sdalal1.github.io/assets/pdf/SteadyWin_GIM6010-8_Manual_rev1.pdf)**
+**[📄Motor Datasheet](https://sdalal1.github.io/assets/pdf/SteadyWin_GIM6010-8_Manual_rev1.pdf)**
 
-**[MIT Paper](https://dspace.mit.edu/handle/1721.1/118671)**
+**[📄MIT Paper](https://dspace.mit.edu/handle/1721.1/118671)**
 
-**[Design Briefing Doc](https://docs.google.com/document/d/1DcKPHw8Bp2Dq9DMruZHhCCMiKNKUiSHHHZJS374k190/edit?usp=sharing)**
+**[📄Design Briefing Doc](https://docs.google.com/document/d/1DcKPHw8Bp2Dq9DMruZHhCCMiKNKUiSHHHZJS374k190/edit?usp=sharing)**
 
 **[📄FAQ Document](https://docs.google.com/document/d/1BC8SMq1RszyV6IFdDRlEQbNECk61Qy4wqWS1KBNw0LQ/edit?usp=sharing)**
 
