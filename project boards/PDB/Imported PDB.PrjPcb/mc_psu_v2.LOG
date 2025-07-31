@@ -1,0 +1,76 @@
+Importer Log Report
+Project : mc_psu_v2.PrjPcb
+
+Section : Analyze Document - N:\newer_SPINE\Helium_Electronics\mc-psu-v3-master\mc_psu_v2.brd
+    Analyzing data of N:\newer_SPINE\Helium_Electronics\mc-psu-v3-master\mc_psu_v2.brd
+    Load settings
+    Load layers 145
+    Load board
+    Load Library "BenLibrary"
+    Load Packages 1
+    Load Library "rcl"
+    Load Packages 6
+    Load Library "con-molex-micro-fit-3_0"
+    Load Packages 1
+    Load Library "keystone"
+    Load Packages 1
+    Load Library "diode"
+    Load Packages 2
+    Load Library "Ben_Library"
+    Load Packages 3
+    Load Library "PDQ30-Q24-S5-D"
+    Load Packages 1
+    Load Library "lmc7211"
+    Load Packages 1
+    Load Library "linear"
+    Load Packages 1
+    ERROR: Unhandled typemfgpreviewcolors
+EndSection
+
+Section : Analyze Document - N:\newer_SPINE\Helium_Electronics\mc-psu-v3-master\mc_psu_v2.sch
+    Analyzing data of N:\newer_SPINE\Helium_Electronics\mc-psu-v3-master\mc_psu_v2.sch
+    Load settings
+    Load layers 145
+    Load schematic
+    Load Libraries 9
+    Load Library "BenLibrary"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "rcl"
+    Load Packages 390
+    Load Symbols 4
+    Load DeviceSets 4
+    Load Library "con-molex-micro-fit-3_0"
+    Load Packages 17
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "keystone"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "diode"
+    Load Packages 62
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "Ben_Library"
+    Load Packages 8
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "PDQ30-Q24-S5-D"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "lmc7211"
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "linear"
+    Load Packages 1
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 72
+    Load Sheets 1
+EndSection

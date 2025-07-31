@@ -1,0 +1,28 @@
+Importer Log Report
+Project : mc_psu_v2.PrjPcb
+
+Section : Analyze Document - N:\newer_SPINE\Helium_Electronics\mc-psu-v3-master\mc_psu_v2.brd
+    Analyzing data of N:\newer_SPINE\Helium_Electronics\mc-psu-v3-master\mc_psu_v2.brd
+    Load settings
+    Load layers 145
+    Load board
+    Load Library "BenLibrary"
+    Load Packages 1
+    Load Library "rcl"
+    Load Packages 6
+    Load Library "con-molex-micro-fit-3_0"
+    Load Packages 1
+    Load Library "keystone"
+    Load Packages 1
+    Load Library "diode"
+    Load Packages 2
+    Load Library "Ben_Library"
+    Load Packages 3
+    Load Library "PDQ30-Q24-S5-D"
+    Load Packages 1
+    Load Library "lmc7211"
+    Load Packages 1
+    Load Library "linear"
+    Load Packages 1
+    ERROR: Unhandled typemfgpreviewcolors
+EndSection

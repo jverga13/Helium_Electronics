@@ -1,0 +1,568 @@
+Protel Design System Design Rule Check
+PCB File : \\engin-labs.m.storage.umich.edu\engin-labs\home\ethanhku\windat.v2\Documents\Atombots\Helium_Electronics\mc-psu-v3-master\Imported mc_psu_v2.PrjPcb\mc_psu_v2.PcbDoc
+Date     : 7/24/2025
+Time     : 3:03:29 PM
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (InPolygonClass('Isolate_10')),(IsArc Or IsTrack Or IsPad Or IsVia Or IsFill Or IsRegion Or IsText)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad C12-2(63.43mm,4.32mm) on Top And Track (64.48mm,6.88mm)(64.96mm,4.96mm) on Top 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad C17-2(61.81mm,44.195mm) on Top And Via (61.72mm,43.84mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad C4-2(69.88mm,44.405mm) on Top And Via (69.88mm,43.82mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad C8-2(65.235mm,52.08mm) on Top And Via (65.4mm,51.2mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad C9-2(63.43mm,8.98mm) on Top And Via (64.96mm,10.08mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad D1-A(81.07mm,27.31mm) on Top And Via (80.42mm,26.6mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad D1-A(81.07mm,27.31mm) on Top And Via (80.42mm,27.5mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad D1-A(81.07mm,27.31mm) on Top And Via (81.32mm,26.6mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad D1-A(81.07mm,27.31mm) on Top And Via (81.32mm,27.5mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.109mm < 0.203mm) Between Pad D3-A(38.03mm,41.88mm) on Top And Via (36.7mm,40.86mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.077mm < 0.203mm) Between Pad D3-A(38.03mm,41.88mm) on Top And Via (36.7mm,41.76mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.077mm < 0.203mm) Between Pad D3-A(38.03mm,41.88mm) on Top And Via (36.7mm,42.66mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad D3-A(38.03mm,41.88mm) on Top And Via (37.6mm,40.86mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad D3-A(38.03mm,41.88mm) on Top And Via (37.6mm,41.76mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad D3-A(38.03mm,41.88mm) on Top And Via (37.6mm,42.66mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad D3-A(38.03mm,41.88mm) on Top And Via (38.5mm,40.86mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad D3-A(38.03mm,41.88mm) on Top And Via (38.5mm,41.76mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad D3-A(38.03mm,41.88mm) on Top And Via (38.5mm,42.66mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad D5-A(87.59mm,27.356mm) on Top And Via (86.688mm,26.18mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad D5-A(87.59mm,27.356mm) on Top And Via (86.688mm,27.08mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad D5-A(87.59mm,27.356mm) on Top And Via (87.588mm,26.18mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad D5-A(87.59mm,27.356mm) on Top And Via (87.588mm,27.08mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad D5-A(87.59mm,27.356mm) on Top And Via (88.488mm,26.18mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad D5-A(87.59mm,27.356mm) on Top And Via (88.488mm,27.08mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.168mm < 0.203mm) Between Pad IC2-8(62.855mm,60.16mm) on Top And Track (61.02mm,60.53mm)(62.285mm,60.53mm) on Top 
+   Violation between Clearance Constraint: (0.147mm < 0.203mm) Between Pad L1-1(54.6mm,27.84mm) on Top And Track (53.527mm,26.357mm)(53.527mm,29.323mm) on Top 
+   Violation between Clearance Constraint: (0.147mm < 0.203mm) Between Pad L1-2(57.4mm,27.84mm) on Top And Track (58.473mm,26.357mm)(58.473mm,29.323mm) on Top 
+   Violation between Clearance Constraint: (0.147mm < 0.203mm) Between Pad L2-1(2.56mm,18.84mm) on Top And Track (1.077mm,19.913mm)(4.043mm,19.913mm) on Top 
+   Violation between Clearance Constraint: (0.147mm < 0.203mm) Between Pad L2-2(2.56mm,16.04mm) on Top And Track (1.077mm,14.967mm)(4.043mm,14.967mm) on Top 
+   Violation between Clearance Constraint: (0.132mm < 0.203mm) Between Pad Q1-1(57.025mm,39.79mm) on Top And Via (57.28mm,40.84mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.132mm < 0.203mm) Between Pad Q1-2(55.755mm,39.79mm) on Top And Via (55.48mm,40.84mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.132mm < 0.203mm) Between Pad Q1-3(54.485mm,39.79mm) on Top And Via (54.58mm,40.84mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.172mm < 0.203mm) Between Pad Q2-1(38.485mm,38.87mm) on Top And Via (38.5mm,39.96mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.185mm < 0.203mm) Between Pad Q2-2(37.215mm,38.87mm) on Top And Via (37.6mm,39.96mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.172mm < 0.203mm) Between Pad Q2-3(35.945mm,38.87mm) on Top And Via (35.8mm,39.96mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-5(78.863mm,17.978mm) on Top And Via (78.572mm,18.816mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.199mm < 0.203mm) Between Pad Q3-5(78.863mm,17.978mm) on Top And Via (79.652mm,18.816mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-6(80.133mm,17.978mm) on Top And Via (79.652mm,18.816mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.189mm < 0.203mm) Between Pad Q3-6(80.133mm,17.978mm) on Top And Via (80.912mm,18.816mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-7(81.403mm,17.978mm) on Top And Via (80.912mm,18.816mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.014mm < 0.203mm) Between Pad Q3-7(81.403mm,17.978mm) on Top And Via (81.992mm,18.816mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.097mm < 0.203mm) Between Pad Q3-8(82.673mm,17.978mm) on Top And Via (81.992mm,18.816mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-EP(80.768mm,20.318mm) on Top And Via (78.572mm,18.816mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-EP(80.768mm,20.318mm) on Top And Via (78.572mm,19.896mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-EP(80.768mm,20.318mm) on Top And Via (78.572mm,20.976mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-EP(80.768mm,20.318mm) on Top And Via (78.572mm,22.056mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-EP(80.768mm,20.318mm) on Top And Via (79.652mm,18.816mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-EP(80.768mm,20.318mm) on Top And Via (79.652mm,19.896mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-EP(80.768mm,20.318mm) on Top And Via (79.652mm,20.976mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-EP(80.768mm,20.318mm) on Top And Via (79.652mm,22.056mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-EP(80.768mm,20.318mm) on Top And Via (80.732mm,19.896mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-EP(80.768mm,20.318mm) on Top And Via (80.732mm,20.976mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-EP(80.768mm,20.318mm) on Top And Via (80.732mm,22.056mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-EP(80.768mm,20.318mm) on Top And Via (80.912mm,18.816mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-EP(80.768mm,20.318mm) on Top And Via (81.812mm,19.896mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-EP(80.768mm,20.318mm) on Top And Via (81.812mm,20.976mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-EP(80.768mm,20.318mm) on Top And Via (81.812mm,22.056mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad Q3-EP(80.768mm,20.318mm) on Top And Via (81.992mm,18.816mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.021mm < 0.203mm) Between Pad Q5-2(86.979mm,23.82mm) on Top And Track (85.709mm,23.82mm)(86.626mm,24.435mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R10-1(72.72mm,50.21mm) on Top And Track (71.897mm,49.727mm)(74.843mm,49.727mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R10-1(72.72mm,50.21mm) on Top And Track (71.897mm,50.693mm)(74.843mm,50.693mm) on Top 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad R10-1(72.72mm,50.21mm) on Top And Via (72.8mm,50.84mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R10-2(74.02mm,50.21mm) on Top And Track (71.897mm,49.727mm)(74.843mm,49.727mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R10-2(74.02mm,50.21mm) on Top And Track (71.897mm,50.693mm)(74.843mm,50.693mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R1-1(79.67mm,29.42mm) on Top And Track (77.547mm,28.937mm)(80.493mm,28.937mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R1-1(79.67mm,29.42mm) on Top And Track (77.547mm,29.903mm)(80.493mm,29.903mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R11-1(34.91mm,45.13mm) on Top And Track (34.087mm,44.647mm)(37.033mm,44.647mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R11-1(34.91mm,45.13mm) on Top And Track (34.087mm,45.613mm)(37.033mm,45.613mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R11-2(36.21mm,45.13mm) on Top And Track (34.087mm,44.647mm)(37.033mm,44.647mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R11-2(36.21mm,45.13mm) on Top And Track (34.087mm,45.613mm)(37.033mm,45.613mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R1-2(78.37mm,29.42mm) on Top And Track (77.547mm,28.937mm)(80.493mm,28.937mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R1-2(78.37mm,29.42mm) on Top And Track (77.547mm,29.903mm)(80.493mm,29.903mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R12-1(79.01mm,30.88mm) on Top And Track (78.187mm,30.397mm)(81.133mm,30.397mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R12-1(79.01mm,30.88mm) on Top And Track (78.187mm,31.363mm)(81.133mm,31.363mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R12-2(80.31mm,30.88mm) on Top And Track (78.187mm,30.397mm)(81.133mm,30.397mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R12-2(80.31mm,30.88mm) on Top And Track (78.187mm,31.363mm)(81.133mm,31.363mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R13-1(85.114mm,31.084mm) on Top And Track (84.291mm,30.601mm)(87.237mm,30.601mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R13-1(85.114mm,31.084mm) on Top And Track (84.291mm,31.567mm)(87.237mm,31.567mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R13-2(86.414mm,31.084mm) on Top And Track (84.291mm,30.601mm)(87.237mm,30.601mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R13-2(86.414mm,31.084mm) on Top And Track (84.291mm,31.567mm)(87.237mm,31.567mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R14-1(86.384mm,29.758mm) on Top And Track (84.261mm,29.275mm)(87.207mm,29.275mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R14-1(86.384mm,29.758mm) on Top And Track (84.261mm,30.241mm)(87.207mm,30.241mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R14-2(85.084mm,29.758mm) on Top And Track (84.261mm,29.275mm)(87.207mm,29.275mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R14-2(85.084mm,29.758mm) on Top And Track (84.261mm,30.241mm)(87.207mm,30.241mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R15-1(68.91mm,48.75mm) on Top And Track (68.087mm,48.267mm)(71.033mm,48.267mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R15-1(68.91mm,48.75mm) on Top And Track (68.087mm,49.233mm)(71.033mm,49.233mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R15-2(70.21mm,48.75mm) on Top And Track (68.087mm,48.267mm)(71.033mm,48.267mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R15-2(70.21mm,48.75mm) on Top And Track (68.087mm,49.233mm)(71.033mm,49.233mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R16-1(70.16mm,50.09mm) on Top And Track (68.037mm,49.607mm)(70.983mm,49.607mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R16-1(70.16mm,50.09mm) on Top And Track (68.037mm,50.573mm)(70.983mm,50.573mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R16-2(68.86mm,50.09mm) on Top And Track (68.037mm,49.607mm)(70.983mm,49.607mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R16-2(68.86mm,50.09mm) on Top And Track (68.037mm,50.573mm)(70.983mm,50.573mm) on Top 
+   Violation between Clearance Constraint: (0.098mm < 0.203mm) Between Pad R17-1(68.58mm,60.53mm) on Top And Track (67.597mm,59.907mm)(69.563mm,59.907mm) on Top 
+   Violation between Clearance Constraint: (0.098mm < 0.203mm) Between Pad R17-2(68.58mm,62.23mm) on Top And Track (67.597mm,62.853mm)(69.563mm,62.853mm) on Top 
+   Violation between Clearance Constraint: (0.098mm < 0.203mm) Between Pad R18-1(61.02mm,60.53mm) on Top And Track (60.037mm,59.907mm)(62.003mm,59.907mm) on Top 
+   Violation between Clearance Constraint: (0.098mm < 0.203mm) Between Pad R18-2(61.02mm,62.23mm) on Top And Track (60.037mm,62.853mm)(62.003mm,62.853mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R2-1(55.92mm,46.52mm) on Top And Track (53.797mm,46.037mm)(56.743mm,46.037mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R2-1(55.92mm,46.52mm) on Top And Track (53.797mm,47.003mm)(56.743mm,47.003mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R2-2(54.62mm,46.52mm) on Top And Track (53.797mm,46.037mm)(56.743mm,46.037mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R2-2(54.62mm,46.52mm) on Top And Track (53.797mm,47.003mm)(56.743mm,47.003mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R3-1(58.84mm,47.14mm) on Top And Track (58.357mm,46.317mm)(58.357mm,49.263mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R3-1(58.84mm,47.14mm) on Top And Track (59.323mm,46.317mm)(59.323mm,49.263mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R3-2(58.84mm,48.44mm) on Top And Track (58.357mm,46.317mm)(58.357mm,49.263mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R3-2(58.84mm,48.44mm) on Top And Track (59.323mm,46.317mm)(59.323mm,49.263mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R4-1(62.08mm,48.75mm) on Top And Track (61.257mm,48.267mm)(64.203mm,48.267mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R4-1(62.08mm,48.75mm) on Top And Track (61.257mm,49.233mm)(64.203mm,49.233mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R4-2(63.38mm,48.75mm) on Top And Track (61.257mm,48.267mm)(64.203mm,48.267mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R4-2(63.38mm,48.75mm) on Top And Track (61.257mm,49.233mm)(64.203mm,49.233mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R5-1(63.42mm,50.03mm) on Top And Track (61.297mm,49.547mm)(64.243mm,49.547mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R5-1(63.42mm,50.03mm) on Top And Track (61.297mm,50.513mm)(64.243mm,50.513mm) on Top 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad R5-1(63.42mm,50.03mm) on Top And Via (63.64mm,50.08mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R5-2(62.12mm,50.03mm) on Top And Track (61.297mm,49.547mm)(64.243mm,49.547mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R5-2(62.12mm,50.03mm) on Top And Track (61.297mm,50.513mm)(64.243mm,50.513mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R6-1(65.34mm,48.66mm) on Top And Track (64.517mm,48.177mm)(67.463mm,48.177mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R6-1(65.34mm,48.66mm) on Top And Track (64.517mm,49.143mm)(67.463mm,49.143mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R6-2(66.64mm,48.66mm) on Top And Track (64.517mm,48.177mm)(67.463mm,48.177mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R6-2(66.64mm,48.66mm) on Top And Track (64.517mm,49.143mm)(67.463mm,49.143mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R7-1(65.44mm,50.05mm) on Top And Track (64.617mm,49.567mm)(67.563mm,49.567mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R7-1(65.44mm,50.05mm) on Top And Track (64.617mm,50.533mm)(67.563mm,50.533mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R7-2(66.74mm,50.05mm) on Top And Track (64.617mm,49.567mm)(67.563mm,49.567mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R7-2(66.74mm,50.05mm) on Top And Track (64.617mm,50.533mm)(67.563mm,50.533mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R8-1(71.98mm,48.53mm) on Top And Track (71.157mm,48.047mm)(74.103mm,48.047mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R8-1(71.98mm,48.53mm) on Top And Track (71.157mm,49.013mm)(74.103mm,49.013mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R8-2(73.28mm,48.53mm) on Top And Track (71.157mm,48.047mm)(74.103mm,48.047mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R8-2(73.28mm,48.53mm) on Top And Track (71.157mm,49.013mm)(74.103mm,49.013mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R9-1(36.19mm,43.96mm) on Top And Track (34.067mm,43.477mm)(37.013mm,43.477mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R9-1(36.19mm,43.96mm) on Top And Track (34.067mm,44.443mm)(37.013mm,44.443mm) on Top 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Pad R9-1(36.19mm,43.96mm) on Top And Via (36.7mm,43.56mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R9-2(34.89mm,43.96mm) on Top And Track (34.067mm,43.477mm)(37.013mm,43.477mm) on Top 
+   Violation between Clearance Constraint: (0.008mm < 0.203mm) Between Pad R9-2(34.89mm,43.96mm) on Top And Track (34.067mm,44.443mm)(37.013mm,44.443mm) on Top 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Track (63.84mm,6.88mm)(64.48mm,6.88mm) on Top And Via (64.96mm,7.68mm) from Top to Bottom 
+   Violation between Clearance Constraint: (Collision < 0.203mm) Between Track (64.48mm,6.88mm)(64.96mm,4.96mm) on Top And Via (64.96mm,7.68mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (29.84mm,40.14mm) from Top to Bottom And Via (29.84mm,41.04mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (29.84mm,40.14mm) from Top to Bottom And Via (30.74mm,40.14mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (29.84mm,41.04mm) from Top to Bottom And Via (29.84mm,41.94mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (29.84mm,41.04mm) from Top to Bottom And Via (30.74mm,41.04mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (29.84mm,41.94mm) from Top to Bottom And Via (29.84mm,42.84mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (29.84mm,41.94mm) from Top to Bottom And Via (30.74mm,41.94mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (29.84mm,42.84mm) from Top to Bottom And Via (29.84mm,43.74mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (29.84mm,42.84mm) from Top to Bottom And Via (30.74mm,42.84mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (29.84mm,43.74mm) from Top to Bottom And Via (30.74mm,43.74mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (30.74mm,40.14mm) from Top to Bottom And Via (30.74mm,41.04mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (30.74mm,40.14mm) from Top to Bottom And Via (31.64mm,40.14mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (30.74mm,41.04mm) from Top to Bottom And Via (30.74mm,41.94mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (30.74mm,41.04mm) from Top to Bottom And Via (31.64mm,41.04mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (30.74mm,41.94mm) from Top to Bottom And Via (30.74mm,42.84mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (30.74mm,41.94mm) from Top to Bottom And Via (31.64mm,41.94mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (30.74mm,42.84mm) from Top to Bottom And Via (30.74mm,43.74mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (30.74mm,42.84mm) from Top to Bottom And Via (31.64mm,42.84mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (30.74mm,43.74mm) from Top to Bottom And Via (31.64mm,43.74mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (31.64mm,40.14mm) from Top to Bottom And Via (31.64mm,41.04mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (31.64mm,40.14mm) from Top to Bottom And Via (32.54mm,40.14mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (31.64mm,41.04mm) from Top to Bottom And Via (31.64mm,41.94mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (31.64mm,41.94mm) from Top to Bottom And Via (31.64mm,42.84mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (31.64mm,42.84mm) from Top to Bottom And Via (31.64mm,43.74mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (31.64mm,43.74mm) from Top to Bottom And Via (32.54mm,43.74mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (32.54mm,40.14mm) from Top to Bottom And Via (33.44mm,40.14mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (32.54mm,43.74mm) from Top to Bottom And Via (33.44mm,43.74mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (35.8mm,39.96mm) from Top to Bottom And Via (35.8mm,40.86mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (35.8mm,39.96mm) from Top to Bottom And Via (36.7mm,39.96mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (35.8mm,40.86mm) from Top to Bottom And Via (35.8mm,41.76mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (35.8mm,40.86mm) from Top to Bottom And Via (36.7mm,40.86mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (35.8mm,41.76mm) from Top to Bottom And Via (35.8mm,42.66mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (35.8mm,41.76mm) from Top to Bottom And Via (36.7mm,41.76mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (35.8mm,42.66mm) from Top to Bottom And Via (36.7mm,42.66mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (36.7mm,39.96mm) from Top to Bottom And Via (36.7mm,40.86mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (36.7mm,39.96mm) from Top to Bottom And Via (37.6mm,39.96mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (36.7mm,40.86mm) from Top to Bottom And Via (36.7mm,41.76mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (36.7mm,40.86mm) from Top to Bottom And Via (37.6mm,40.86mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (36.7mm,41.76mm) from Top to Bottom And Via (36.7mm,42.66mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (36.7mm,41.76mm) from Top to Bottom And Via (37.6mm,41.76mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (36.7mm,42.66mm) from Top to Bottom And Via (36.7mm,43.56mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (36.7mm,42.66mm) from Top to Bottom And Via (37.6mm,42.66mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (36.7mm,43.56mm) from Top to Bottom And Via (37.6mm,43.56mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (37.6mm,39.96mm) from Top to Bottom And Via (37.6mm,40.86mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (37.6mm,39.96mm) from Top to Bottom And Via (38.5mm,39.96mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (37.6mm,40.86mm) from Top to Bottom And Via (37.6mm,41.76mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (37.6mm,40.86mm) from Top to Bottom And Via (38.5mm,40.86mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (37.6mm,41.76mm) from Top to Bottom And Via (37.6mm,42.66mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (37.6mm,41.76mm) from Top to Bottom And Via (38.5mm,41.76mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (37.6mm,42.66mm) from Top to Bottom And Via (37.6mm,43.56mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (37.6mm,42.66mm) from Top to Bottom And Via (38.5mm,42.66mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (37.6mm,43.56mm) from Top to Bottom And Via (38.5mm,43.56mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (38.5mm,39.96mm) from Top to Bottom And Via (38.5mm,40.86mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (38.5mm,40.86mm) from Top to Bottom And Via (38.5mm,41.76mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (38.5mm,41.76mm) from Top to Bottom And Via (38.5mm,42.66mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (38.5mm,42.66mm) from Top to Bottom And Via (38.5mm,43.56mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (54.58mm,40.84mm) from Top to Bottom And Via (54.58mm,41.74mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (54.58mm,40.84mm) from Top to Bottom And Via (55.48mm,40.84mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (54.58mm,41.74mm) from Top to Bottom And Via (54.58mm,42.64mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (54.58mm,41.74mm) from Top to Bottom And Via (55.48mm,41.74mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (54.58mm,42.64mm) from Top to Bottom And Via (55.48mm,42.64mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (55.48mm,40.84mm) from Top to Bottom And Via (55.48mm,41.74mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (55.48mm,40.84mm) from Top to Bottom And Via (56.38mm,40.84mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (55.48mm,41.74mm) from Top to Bottom And Via (55.48mm,42.64mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (55.48mm,41.74mm) from Top to Bottom And Via (56.38mm,41.74mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (55.48mm,42.64mm) from Top to Bottom And Via (56.38mm,42.64mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (56.38mm,40.84mm) from Top to Bottom And Via (56.38mm,41.74mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (56.38mm,40.84mm) from Top to Bottom And Via (57.28mm,40.84mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (56.38mm,41.74mm) from Top to Bottom And Via (56.38mm,42.64mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (56.38mm,41.74mm) from Top to Bottom And Via (57.28mm,41.74mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (56.38mm,42.64mm) from Top to Bottom And Via (57.28mm,42.64mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (57.28mm,40.84mm) from Top to Bottom And Via (57.28mm,41.74mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (57.28mm,40.84mm) from Top to Bottom And Via (58.18mm,40.84mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (57.28mm,41.74mm) from Top to Bottom And Via (57.28mm,42.64mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (57.28mm,41.74mm) from Top to Bottom And Via (58.18mm,41.74mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (57.28mm,42.64mm) from Top to Bottom And Via (58.18mm,42.64mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (58.18mm,40.84mm) from Top to Bottom And Via (58.18mm,41.74mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (58.18mm,41.74mm) from Top to Bottom And Via (58.18mm,42.64mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (79.52mm,24.8mm) from Top to Bottom And Via (79.52mm,25.7mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (79.52mm,24.8mm) from Top to Bottom And Via (80.42mm,24.8mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (79.52mm,25.7mm) from Top to Bottom And Via (79.52mm,26.6mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (79.52mm,25.7mm) from Top to Bottom And Via (80.42mm,25.7mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (79.52mm,26.6mm) from Top to Bottom And Via (79.52mm,27.5mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (79.52mm,26.6mm) from Top to Bottom And Via (80.42mm,26.6mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (79.52mm,27.5mm) from Top to Bottom And Via (80.42mm,27.5mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (80.42mm,24.8mm) from Top to Bottom And Via (80.42mm,25.7mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (80.42mm,24.8mm) from Top to Bottom And Via (81.32mm,24.8mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (80.42mm,25.7mm) from Top to Bottom And Via (80.42mm,26.6mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (80.42mm,25.7mm) from Top to Bottom And Via (81.32mm,25.7mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (80.42mm,26.6mm) from Top to Bottom And Via (80.42mm,27.5mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (80.42mm,26.6mm) from Top to Bottom And Via (81.32mm,26.6mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (80.42mm,27.5mm) from Top to Bottom And Via (81.32mm,27.5mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (81.32mm,24.8mm) from Top to Bottom And Via (81.32mm,25.7mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (81.32mm,24.8mm) from Top to Bottom And Via (82.22mm,24.8mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (81.32mm,25.7mm) from Top to Bottom And Via (81.32mm,26.6mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (81.32mm,25.7mm) from Top to Bottom And Via (82.22mm,25.7mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (81.32mm,26.6mm) from Top to Bottom And Via (81.32mm,27.5mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (82.22mm,24.8mm) from Top to Bottom And Via (82.22mm,25.7mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (85.788mm,25.28mm) from Top to Bottom And Via (85.788mm,26.18mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (85.788mm,25.28mm) from Top to Bottom And Via (86.688mm,25.28mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (85.788mm,26.18mm) from Top to Bottom And Via (85.788mm,27.08mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (85.788mm,26.18mm) from Top to Bottom And Via (86.688mm,26.18mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (85.788mm,27.08mm) from Top to Bottom And Via (86.688mm,27.08mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (86.688mm,25.28mm) from Top to Bottom And Via (86.688mm,26.18mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (86.688mm,25.28mm) from Top to Bottom And Via (87.588mm,25.28mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (86.688mm,26.18mm) from Top to Bottom And Via (86.688mm,27.08mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (86.688mm,26.18mm) from Top to Bottom And Via (87.588mm,26.18mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (86.688mm,27.08mm) from Top to Bottom And Via (87.588mm,27.08mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (87.588mm,25.28mm) from Top to Bottom And Via (87.588mm,26.18mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (87.588mm,25.28mm) from Top to Bottom And Via (88.488mm,25.28mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (87.588mm,26.18mm) from Top to Bottom And Via (87.588mm,27.08mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (87.588mm,26.18mm) from Top to Bottom And Via (88.488mm,26.18mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (87.588mm,27.08mm) from Top to Bottom And Via (88.488mm,27.08mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (88.488mm,25.28mm) from Top to Bottom And Via (88.488mm,26.18mm) from Top to Bottom 
+   Violation between Clearance Constraint: (0.194mm < 0.203mm) Between Via (88.488mm,26.18mm) from Top to Bottom And Via (88.488mm,27.08mm) from Top to Bottom 
+Rule Violations :246
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.305mm) (InPolygonClass('Isolate_12')),(IsArc Or IsTrack Or IsPad Or IsVia Or IsFill Or IsRegion Or IsText)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.61mm) (InPolygonClass('Isolate_24')),(IsArc Or IsTrack Or IsPad Or IsVia Or IsFill Or IsRegion Or IsText)
+   Violation between Clearance Constraint: (0.305mm < 0.61mm) Between Polygon Region (0 hole(s)) Bottom And Polygon Region (5 hole(s)) Bottom 
+Rule Violations :1
+
+Processing Rule : Clearance Constraint (Gap=0.406mm) (InPolygonClass('Isolate_16')),(IsArc Or IsTrack Or IsPad Or IsVia Or IsFill Or IsRegion Or IsText)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=0.254mm) (Preferred=0.203mm) (All)
+   Violation between Width Constraint: Track (10.86mm,26.89mm)(10.86mm,67.59mm) on Bottom Actual Width = 1.422mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (10.86mm,67.59mm)(10.86mm,70.59mm) on Bottom Actual Width = 1.422mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (13.28mm,20.11mm)(13.28mm,27.04mm) on Bottom Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (13.28mm,20.11mm)(30.13mm,3.26mm) on Bottom Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (13.28mm,27.04mm)(13.28mm,66.41mm) on Bottom Actual Width = 1.422mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (13.28mm,66.41mm)(13.86mm,67.59mm) on Bottom Actual Width = 1.422mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (13.86mm,67.59mm)(13.86mm,70.59mm) on Bottom Actual Width = 1.422mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (15.36mm,23.68mm)(30.11mm,23.68mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (15.68mm,30.72mm)(15.68mm,59.52mm) on Bottom Actual Width = 1.422mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (15.68mm,30.72mm)(19.84mm,26.4mm) on Bottom Actual Width = 1.422mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (15.68mm,59.52mm)(21.49mm,65.49mm) on Bottom Actual Width = 1.422mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (18.24mm,30.88mm)(18.24mm,59.04mm) on Bottom Actual Width = 1.422mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (18.24mm,30.88mm)(20.48mm,28.64mm) on Bottom Actual Width = 1.422mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (18.24mm,59.04mm)(24.16mm,64.96mm) on Bottom Actual Width = 1.422mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (19.84mm,26.4mm)(32.47mm,26.4mm) on Bottom Actual Width = 1.422mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (2.56mm,18.84mm)(2.56mm,21.5mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (2.56mm,18.84mm)(4.84mm,18.84mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (2.56mm,21.5mm)(2.66mm,21.6mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (2.66mm,21.6mm)(2.66mm,24.16mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (2.66mm,24.16mm)(2.66mm,26.72mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (20.48mm,28.64mm)(33.6mm,28.64mm) on Bottom Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (21.49mm,65.49mm)(21.49mm,67.59mm) on Bottom Actual Width = 1.422mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (21.49mm,67.59mm)(21.49mm,70.59mm) on Bottom Actual Width = 1.422mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (24.16mm,64.96mm)(24.16mm,67.26mm) on Bottom Actual Width = 1.422mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (24.16mm,67.26mm)(24.49mm,67.59mm) on Bottom Actual Width = 1.422mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (24.49mm,67.59mm)(24.49mm,70.59mm) on Bottom Actual Width = 1.422mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (28.915mm,38.87mm)(28.915mm,44.575mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (32.47mm,26.4mm)(32.96mm,25.91mm) on Bottom Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (32.96mm,11.84mm)(32.96mm,25.91mm) on Bottom Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (32.96mm,11.84mm)(35.63mm,9.17mm) on Bottom Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (33.6mm,28.64mm)(35.52mm,26.72mm) on Bottom Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (34.675mm,38.87mm)(34.675mm,41.135mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (34.89mm,42.84mm)(34.89mm,43.96mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (35.52mm,23.81mm)(35.52mm,26.72mm) on Bottom Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (35.52mm,23.81mm)(35.63mm,23.7mm) on Bottom Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (35.63mm,3.3mm)(35.63mm,9.17mm) on Bottom Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (36.34mm,45mm)(39.24mm,45mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (38.75mm,66.4mm)(38.79mm,62.5mm) on Top Actual Width = 2.184mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (5.66mm,21.06mm)(9.83mm,16.89mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (5.66mm,21.6mm)(5.66mm,24.16mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (53.215mm,39.79mm)(53.42mm,39.995mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (53.42mm,39.995mm)(53.42mm,44.54mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (53.42mm,44.54mm)(54.62mm,45.74mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (54.62mm,45.74mm)(54.62mm,46.52mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (54.62mm,46.52mm)(54.62mm,47.06mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (54.62mm,47.06mm)(55.26mm,47.7mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (54.6mm,17.33mm)(54.6mm,27.84mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (54.6mm,17.33mm)(55.93mm,16mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (55.26mm,47.7mm)(57.42mm,47.7mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (55.92mm,46.14mm)(57.52mm,44.54mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (55.93mm,10.9mm)(56.82mm,10.9mm) on Bottom Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (55.93mm,16mm)(60.43mm,11.5mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (56.15mm,57.54mm)(56.15mm,57.67mm) on Bottom Actual Width = 0.406mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (56.15mm,57.67mm)(58.64mm,60.16mm) on Bottom Actual Width = 0.406mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (56.48mm,7.52mm)(56.96mm,7.52mm) on Bottom Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (56.82mm,10.9mm)(59.52mm,13.6mm) on Bottom Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (56.96mm,7.52mm)(61.76mm,12.32mm) on Bottom Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (57.42mm,47.7mm)(58.41mm,46.71mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (58.64mm,60.16mm)(60.62mm,60.16mm) on Bottom Actual Width = 0.61mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (60.43mm,6.64mm)(60.43mm,8.98mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (60.62mm,60.16mm)(60.66mm,60.12mm) on Bottom Actual Width = 0.61mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (61.222mm,19.26mm)(61.222mm,22.32mm) on Top Actual Width = 1.93mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (61.222mm,19.26mm)(63.911mm,16.571mm) on Top Actual Width = 1.93mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (61.222mm,25.02mm)(61.222mm,28.26mm) on Top Actual Width = 1.93mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (61.222mm,25.02mm)(61.402mm,24.84mm) on Top Actual Width = 1.93mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (61.222mm,28.26mm)(61.222mm,30.6mm) on Top Actual Width = 1.93mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (61.222mm,30.6mm)(61.402mm,30.78mm) on Top Actual Width = 1.93mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (61.402mm,30.78mm)(61.402mm,33.502mm) on Top Actual Width = 1.93mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (61.402mm,36.338mm)(61.402mm,38.88mm) on Top Actual Width = 1.93mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (61.402mm,36.338mm)(62.82mm,34.92mm) on Top Actual Width = 1.93mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (61.4mm,52.16mm)(61.72mm,51.84mm) on Top Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (61.625mm,52.37mm)(61.72mm,52.15mm) on Top Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (61.72mm,43.68mm)(61.72mm,43.84mm) on Bottom Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (61.72mm,43.84mm)(61.81mm,43.93mm) on Top Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (61.76mm,12.32mm)(61.76mm,14.432mm) on Bottom Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (61.76mm,14.432mm)(61.812mm,14.484mm) on Bottom Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (61.812mm,14.484mm)(61.824mm,14.484mm) on Top Actual Width = 1.93mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (61.81mm,43.93mm)(61.81mm,44.195mm) on Top Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (61.81mm,45.945mm)(61.81mm,46.49mm) on Top Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (62.592mm,45.288mm)(64.296mm,45.288mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (62.82mm,34.92mm)(69.322mm,34.92mm) on Top Actual Width = 1.93mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (63.43mm,7.29mm)(63.43mm,8.98mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (63.43mm,7.29mm)(63.84mm,6.88mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (63.47mm,48.66mm)(63.48mm,48.65mm) on Top Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (63.64mm,50.08mm)(63.96mm,50.08mm) on Bottom Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (63.84mm,6.88mm)(64.48mm,6.88mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (64.12mm,57.76mm)(64.12mm,58.24mm) on Bottom Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (64.76mm,51.2mm)(65.4mm,51.2mm) on Bottom Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (65.235mm,52.08mm)(65.44mm,52.283mm) on Top Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (65.44mm,51.088mm)(65.44mm,52.283mm) on Top Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (65.713mm,44.04mm)(65.713mm,44.061mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (65.713mm,44.04mm)(66.912mm,42.84mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (66.64mm,48.44mm)(66.64mm,48.66mm) on Top Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (66.708mm,42.84mm)(66.912mm,42.84mm) on Bottom Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (68.75mm,9.2mm)(74.11mm,14.56mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (68.88mm,52.36mm)(69.005mm,52.42mm) on Top Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (69.502mm,35.1mm)(69.502mm,38.7mm) on Top Actual Width = 1.93mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (69.502mm,38.7mm)(69.682mm,38.88mm) on Top Actual Width = 1.93mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (7.36mm,7.52mm)(7.52mm,7.36mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (70.16mm,50.09mm)(70.34mm,49.91mm) on Top Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (70.34mm,49.91mm)(71.25mm,49.91mm) on Top Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (71.02mm,50.08mm)(71.08mm,50.08mm) on Bottom Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (71.64mm,57.92mm)(71.96mm,58.24mm) on Bottom Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (71.8mm,46.507mm)(71.808mm,46.499mm) on Top Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (72.44mm,51.22mm)(72.8mm,50.86mm) on Bottom Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (72.455mm,51.185mm)(72.8mm,50.84mm) on Top Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (72.8mm,50.84mm)(72.8mm,50.86mm) on Bottom Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (74.02mm,50.21mm)(74.205mm,50.395mm) on Top Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (76.97mm,27.31mm)(77.39mm,27.73mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (77.458mm,59.358mm)(80.428mm,59.358mm) on Top Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (77.94mm,41.22mm)(77.962mm,41.198mm) on Top Actual Width = 1.93mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (78.12mm,23.661mm)(78.12mm,25.02mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (78.37mm,28.71mm)(78.37mm,29.42mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (78.3mm,29.49mm)(78.37mm,29.42mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (79.02mm,33.12mm)(80.28mm,31.86mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (79.13mm,27.89mm)(79.52mm,27.5mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (79.4mm,68.54mm)(86mm,68.54mm) on Top Actual Width = 1.016mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (80.28mm,30.91mm)(80.31mm,30.88mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (83.64mm,27.506mm)(83.64mm,28.56mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (85.709mm,23.82mm)(86.626mm,24.435mm) on Top Actual Width = 0.16mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (86.384mm,28.562mm)(86.384mm,29.758mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (86.384mm,28.562mm)(87.59mm,27.356mm) on Top Actual Width = 0.18mm, Target Width = 0.203mm
+   Violation between Width Constraint: Track (86mm,68.54mm)(87.26mm,69.8mm) on Top Actual Width = 1.016mm, Target Width = 0.254mm
+   Violation between Width Constraint: Track (9.83mm,15.77mm)(9.83mm,16.06mm) on Top Actual Width = 1.676mm, Target Width = 0.254mm
+Rule Violations :124
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=2540mm) (All)
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (29.84mm,40.14mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (29.84mm,41.04mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (29.84mm,41.94mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (29.84mm,42.84mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (29.84mm,43.74mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (30.74mm,40.14mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (30.74mm,41.04mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (30.74mm,41.94mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (30.74mm,42.84mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (30.74mm,43.74mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (31.64mm,40.14mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (31.64mm,41.04mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (31.64mm,41.94mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (31.64mm,42.84mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (31.64mm,43.74mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (32.54mm,40.14mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (32.54mm,43.74mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (33.44mm,40.14mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (33.44mm,43.74mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (35.8mm,39.96mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (35.8mm,40.86mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (35.8mm,41.76mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (35.8mm,42.66mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (36.7mm,39.96mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (36.7mm,40.86mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (36.7mm,41.76mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (36.7mm,42.66mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (36.7mm,43.56mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (37.6mm,39.96mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (37.6mm,40.86mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (37.6mm,41.76mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (37.6mm,42.66mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (37.6mm,43.56mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (38.5mm,39.96mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (38.5mm,40.86mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (38.5mm,41.76mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (38.5mm,42.66mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (38.5mm,43.56mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (54.58mm,40.84mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (54.58mm,41.74mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (54.58mm,42.64mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (55.48mm,40.84mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (55.48mm,41.74mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (55.48mm,42.64mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (56.38mm,40.84mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (56.38mm,41.74mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (56.38mm,42.64mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (57.28mm,40.84mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (57.28mm,41.74mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (57.28mm,42.64mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (58.18mm,40.84mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (58.18mm,41.74mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (58.18mm,42.64mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (60.42mm,47.94mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (61.72mm,43.84mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (62.628mm,42.432mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (63.64mm,50.08mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (64.12mm,57.76mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (64.96mm,2.4mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (64.96mm,4.96mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (64.96mm,7.68mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (65.4mm,51.2mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (66.912mm,42.84mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (69.88mm,43.82mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (71.08mm,50.08mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (71.64mm,57.92mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (72.8mm,50.84mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (72.936mm,42.816mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (77.88mm,44.48mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (78.572mm,18.816mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (78.572mm,19.896mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (78.572mm,20.976mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (78.572mm,22.056mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (78.76mm,43.28mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (78.88mm,33.584mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (78.88mm,34.844mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (79.52mm,24.8mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (79.52mm,25.7mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (79.52mm,26.6mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (79.52mm,27.5mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (79.652mm,18.816mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (79.652mm,19.896mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (79.652mm,20.976mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (79.652mm,22.056mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (80.42mm,24.8mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (80.42mm,25.7mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (80.42mm,26.6mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (80.42mm,27.5mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (80.732mm,19.896mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (80.732mm,20.976mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (80.732mm,22.056mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (80.912mm,18.816mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (81.32mm,24.8mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (81.32mm,25.7mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (81.32mm,26.6mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (81.32mm,27.5mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (81.812mm,19.896mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (81.812mm,20.976mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (81.812mm,22.056mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (81.992mm,18.816mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (82.22mm,24.8mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (82.22mm,25.7mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (85.788mm,25.28mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (85.788mm,26.18mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (85.788mm,27.08mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (86.688mm,25.28mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (86.688mm,26.18mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (86.688mm,27.08mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (87.588mm,25.28mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (87.588mm,26.18mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (87.588mm,27.08mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (88.488mm,25.28mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (88.488mm,26.18mm) from Top to Bottom Actual Hole Size = 0.3mm
+   Violation between Hole Size Constraint: (0.3mm < 0.3mm) Via (88.488mm,27.08mm) from Top to Bottom Actual Hole Size = 0.3mm
+Rule Violations :114
+
+Processing Rule : Hole To Hole Clearance (Gap=0.203mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad C2-1(68.94mm,58.765mm) on Top And Text "IC1" (69.613mm,56.015mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Pad C2-2(68.94mm,57.015mm) on Top And Text "IC1" (69.613mm,56.015mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.168mm < 0.254mm) Between Pad R10-2(74.02mm,50.21mm) on Top And Text "R10" (73.815mm,50.845mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.168mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.205mm < 0.254mm) Between Pad R16-1(70.16mm,50.09mm) on Top And Text "R16" (69.195mm,50.762mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.205mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.205mm < 0.254mm) Between Pad R16-2(68.86mm,50.09mm) on Top And Text "R16" (69.195mm,50.762mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.205mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.185mm < 0.254mm) Between Pad R7-2(66.74mm,50.05mm) on Top And Text "R7" (66.609mm,50.702mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.185mm]
+Rule Violations :6
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.016mm < 0.254mm) Between Text "C2" (68.354mm,55.557mm) on Top Overlay And Text "IC1" (69.613mm,56.015mm) on Top Overlay Silk Text to Silk Clearance [0.016mm]
+Rule Violations :1
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad Free-MH1(12.36mm,74.91mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad Free-MH1(22.99mm,74.91mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad Free-MH1(3mm,10mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad Free-MH2(87mm,10mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad Free-MH3(87mm,37mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad Free-MH4(3mm,37mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad Free-MH5(3mm,77mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Cutout Edge): (Collision < 0.254mm) Between Board Cutout (Multi-Layer)Region (0 hole(s)) Multi-Layer And Pad Free-MH6(87mm,77mm) on Multi-Layer 
+Rule Violations :8
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Waived Violations : 0
+Time Elapsed        : 00:00:01

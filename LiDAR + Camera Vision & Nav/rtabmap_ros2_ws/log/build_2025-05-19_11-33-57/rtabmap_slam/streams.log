@@ -1,0 +1,155 @@
+[0.012s] Invoking command in '/home/jverga/rtabmap_ros2_ws/build/rtabmap_slam': AMENT_PREFIX_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs:/home/jverga/combined_ros2_ws/install/point_lio:/home/jverga/realsense_ws/install/realsense2_description:/home/jverga/realsense_ws/install/realsense2_camera:/home/jverga/realsense_ws/install/realsense2_camera_msgs:/home/jverga/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2:/home/jverga/unilidar_sdk2/unitree_lidar_ros2/catkin_point_lio_unilidar/install/point_lio:/home/jverga/unilidar_sdk2/install/unitree_lidar_ros2:/home/jverga/combined_ros2_ws/install/odometry_fusion:/opt/ros/humble LD_LIBRARY_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/jverga/rtabmap_ros2_ws/src/rtabmap_ros/rtabmap_slam -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jverga/rtabmap_ros2_ws/install/rtabmap_slam
+[0.045s] -- The C compiler identification is GNU 11.4.0
+[0.076s] -- The CXX compiler identification is GNU 11.4.0
+[0.080s] -- Detecting C compiler ABI info
+[0.125s] -- Detecting C compiler ABI info - done
+[0.129s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.129s] -- Detecting C compile features
+[0.129s] -- Detecting C compile features - done
+[0.131s] -- Detecting CXX compiler ABI info
+[0.182s] -- Detecting CXX compiler ABI info - done
+[0.188s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.188s] -- Detecting CXX compile features
+[0.189s] -- Detecting CXX compile features - done
+[0.191s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.292s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.344s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.373s] -- Found cv_bridge: 3.2.1 (/opt/ros/humble/share/cv_bridge/cmake)
+[0.405s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.409s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.415s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.423s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.434s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.474s] -- Found nav_msgs: 4.8.0 (/opt/ros/humble/share/nav_msgs/cmake)
+[0.484s] -- Found pluginlib: 5.1.0 (/opt/ros/humble/share/pluginlib/cmake)
+[0.504s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[0.528s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.531s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.547s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.586s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.589s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.598s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.599s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.605s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.611s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.617s] -- Looking for pthread.h
+[0.661s] -- Looking for pthread.h - found
+[0.661s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.707s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.708s] -- Found Threads: TRUE  
+[0.731s] -- Found rclcpp_components: 16.0.12 (/opt/ros/humble/share/rclcpp_components/cmake)
+[0.741s] -- Found std_srvs: 4.8.0 (/opt/ros/humble/share/std_srvs/cmake)
+[0.747s] -- Found tf2: 0.25.12 (/opt/ros/humble/share/tf2/cmake)
+[0.750s] -- Found tf2_ros: 0.25.12 (/opt/ros/humble/share/tf2_ros/cmake)
+[0.790s] -- Found visualization_msgs: 4.8.0 (/opt/ros/humble/share/visualization_msgs/cmake)
+[0.799s] -- Found rtabmap_msgs: 0.21.10 (/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs/share/rtabmap_msgs/cmake)
+[0.810s] -- Found rtabmap_util: 0.21.10 (/home/jverga/rtabmap_ros2_ws/install/rtabmap_util/share/rtabmap_util/cmake)
+[0.892s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[0.893s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[0.893s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[0.919s] -- Checking for module 'eigen3'
+[0.929s] --   Found eigen3, version 3.4.0
+[0.952s] -- Found Eigen: /usr/include/eigen3 (Required is at least version "3.1") 
+[0.952s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[0.977s] -- Checking for module 'flann'
+[0.986s] --   Found flann, version 1.9.1
+[1.014s] -- Found FLANN: /usr/lib/x86_64-linux-gnu/libflann_cpp.so  
+[1.014s] -- FLANN found (include: /usr/include, lib: /usr/lib/x86_64-linux-gnu/libflann_cpp.so)
+[1.623s] -- Checking for module 'libusb-1.0'
+[1.633s] --   Found libusb-1.0, version 1.0.25
+[1.657s] -- Found libusb: /usr/lib/x86_64-linux-gnu/libusb-1.0.so  
+[1.658s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[1.697s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[1.786s] -- Eigen found (include: /usr/include/eigen3, version: 3.4.0)
+[1.791s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[1.795s] -- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)
+[1.880s] -- Found Qhull version 8.0.2
+[1.970s] -- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)
+[2.052s] -- Found PCL_COMMON: /usr/lib/x86_64-linux-gnu/libpcl_common.so  
+[2.053s] -- Found PCL_KDTREE: /usr/lib/x86_64-linux-gnu/libpcl_kdtree.so  
+[2.053s] -- Found PCL_OCTREE: /usr/lib/x86_64-linux-gnu/libpcl_octree.so  
+[2.053s] -- Found PCL_SEARCH: /usr/lib/x86_64-linux-gnu/libpcl_search.so  
+[2.054s] -- Found PCL_SAMPLE_CONSENSUS: /usr/lib/x86_64-linux-gnu/libpcl_sample_consensus.so  
+[2.054s] -- Found PCL_FILTERS: /usr/lib/x86_64-linux-gnu/libpcl_filters.so  
+[2.054s] -- Found PCL_2D: /usr/include/pcl-1.12  
+[2.055s] -- Found PCL_GEOMETRY: /usr/include/pcl-1.12  
+[2.055s] -- Found PCL_IO: /usr/lib/x86_64-linux-gnu/libpcl_io.so  
+[2.055s] -- Found PCL_FEATURES: /usr/lib/x86_64-linux-gnu/libpcl_features.so  
+[2.056s] -- Found PCL_ML: /usr/lib/x86_64-linux-gnu/libpcl_ml.so  
+[2.056s] -- Found PCL_SEGMENTATION: /usr/lib/x86_64-linux-gnu/libpcl_segmentation.so  
+[2.057s] -- Found PCL_VISUALIZATION: /usr/lib/x86_64-linux-gnu/libpcl_visualization.so  
+[2.057s] -- Found PCL_SURFACE: /usr/lib/x86_64-linux-gnu/libpcl_surface.so  
+[2.058s] -- Found PCL_REGISTRATION: /usr/lib/x86_64-linux-gnu/libpcl_registration.so  
+[2.058s] -- Found PCL_KEYPOINTS: /usr/lib/x86_64-linux-gnu/libpcl_keypoints.so  
+[2.059s] -- Found PCL_TRACKING: /usr/lib/x86_64-linux-gnu/libpcl_tracking.so  
+[2.059s] -- Found PCL_RECOGNITION: /usr/lib/x86_64-linux-gnu/libpcl_recognition.so  
+[2.060s] -- Found PCL_STEREO: /usr/lib/x86_64-linux-gnu/libpcl_stereo.so  
+[2.060s] -- Found PCL_APPS: /usr/lib/x86_64-linux-gnu/libpcl_apps.so  
+[2.061s] -- Found PCL_IN_HAND_SCANNER: /usr/include/pcl-1.12  
+[2.061s] -- Found PCL_MODELER: /usr/include/pcl-1.12  
+[2.061s] -- Found PCL_POINT_CLOUD_EDITOR: /usr/include/pcl-1.12  
+[2.061s] -- Found PCL_OUTOFCORE: /usr/lib/x86_64-linux-gnu/libpcl_outofcore.so  
+[2.062s] -- Found PCL_PEOPLE: /usr/lib/x86_64-linux-gnu/libpcl_people.so  
+[2.107s] -- Found rtabmap_sync: 0.21.10 (/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync/share/rtabmap_sync/cmake)
+[2.128s] [33mCMake Warning at CMakeLists.txt:31 (find_package):
+[2.129s]   By not providing "Findapriltag_msgs.cmake" in CMAKE_MODULE_PATH this
+[2.129s]   project has asked CMake to find a package configuration file provided by
+[2.129s]   "apriltag_msgs", but CMake did not find one.
+[2.129s] 
+[2.129s]   Could not find a package configuration file provided by "apriltag_msgs"
+[2.129s]   with any of the following names:
+[2.129s] 
+[2.129s]     apriltag_msgsConfig.cmake
+[2.129s]     apriltag_msgs-config.cmake
+[2.129s] 
+[2.129s]   Add the installation prefix of "apriltag_msgs" to CMAKE_PREFIX_PATH or set
+[2.129s]   "apriltag_msgs_DIR" to a directory containing one of the above files.  If
+[2.129s]   "apriltag_msgs" provides a separate development package or SDK, be sure it
+[2.129s]   has been installed.
+[2.129s] 
+[2.129s] [0m
+[2.129s] -- WITH nav2_msgs
+[2.182s] -- Configuring done
+[2.244s] -- Generating done
+[2.256s] -- Build files have been written to: /home/jverga/rtabmap_ros2_ws/build/rtabmap_slam
+[2.268s] Invoked command in '/home/jverga/rtabmap_ros2_ws/build/rtabmap_slam' returned '0': AMENT_PREFIX_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs:/home/jverga/combined_ros2_ws/install/point_lio:/home/jverga/realsense_ws/install/realsense2_description:/home/jverga/realsense_ws/install/realsense2_camera:/home/jverga/realsense_ws/install/realsense2_camera_msgs:/home/jverga/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2:/home/jverga/unilidar_sdk2/unitree_lidar_ros2/catkin_point_lio_unilidar/install/point_lio:/home/jverga/unilidar_sdk2/install/unitree_lidar_ros2:/home/jverga/combined_ros2_ws/install/odometry_fusion:/opt/ros/humble LD_LIBRARY_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/jverga/rtabmap_ros2_ws/src/rtabmap_ros/rtabmap_slam -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jverga/rtabmap_ros2_ws/install/rtabmap_slam
+[2.269s] Invoking command in '/home/jverga/rtabmap_ros2_ws/build/rtabmap_slam': AMENT_PREFIX_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs:/home/jverga/combined_ros2_ws/install/point_lio:/home/jverga/realsense_ws/install/realsense2_description:/home/jverga/realsense_ws/install/realsense2_camera:/home/jverga/realsense_ws/install/realsense2_camera_msgs:/home/jverga/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2:/home/jverga/unilidar_sdk2/unitree_lidar_ros2/catkin_point_lio_unilidar/install/point_lio:/home/jverga/unilidar_sdk2/install/unitree_lidar_ros2:/home/jverga/combined_ros2_ws/install/odometry_fusion:/opt/ros/humble LD_LIBRARY_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/jverga/rtabmap_ros2_ws/build/rtabmap_slam -- -j28 -l28
+[2.303s] [35m[1mConsolidate compiler generated dependencies of target rtabmap_slam_plugins[0m
+[2.334s] [ 50%] Built target rtabmap_slam_plugins
+[2.342s] [35m[1mConsolidate compiler generated dependencies of target rtabmap_node[0m
+[2.365s] [100%] Built target rtabmap_node
+[2.372s] Invoked command in '/home/jverga/rtabmap_ros2_ws/build/rtabmap_slam' returned '0': AMENT_PREFIX_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs:/home/jverga/combined_ros2_ws/install/point_lio:/home/jverga/realsense_ws/install/realsense2_description:/home/jverga/realsense_ws/install/realsense2_camera:/home/jverga/realsense_ws/install/realsense2_camera_msgs:/home/jverga/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2:/home/jverga/unilidar_sdk2/unitree_lidar_ros2/catkin_point_lio_unilidar/install/point_lio:/home/jverga/unilidar_sdk2/install/unitree_lidar_ros2:/home/jverga/combined_ros2_ws/install/odometry_fusion:/opt/ros/humble LD_LIBRARY_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/jverga/rtabmap_ros2_ws/build/rtabmap_slam -- -j28 -l28
+[2.373s] Invoking command in '/home/jverga/rtabmap_ros2_ws/build/rtabmap_slam': AMENT_PREFIX_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs:/home/jverga/combined_ros2_ws/install/point_lio:/home/jverga/realsense_ws/install/realsense2_description:/home/jverga/realsense_ws/install/realsense2_camera:/home/jverga/realsense_ws/install/realsense2_camera_msgs:/home/jverga/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2:/home/jverga/unilidar_sdk2/unitree_lidar_ros2/catkin_point_lio_unilidar/install/point_lio:/home/jverga/unilidar_sdk2/install/unitree_lidar_ros2:/home/jverga/combined_ros2_ws/install/odometry_fusion:/opt/ros/humble LD_LIBRARY_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/jverga/rtabmap_ros2_ws/build/rtabmap_slam
+[2.377s] -- Install configuration: ""
+[2.377s] -- Execute custom install script
+[2.377s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/environment/library_path.sh
+[2.377s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/environment/library_path.dsv
+[2.377s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/lib/rtabmap_slam/rtabmap
+[2.377s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/ament_index/resource_index/package_run_dependencies/rtabmap_slam
+[2.378s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/ament_index/resource_index/parent_prefix_path/rtabmap_slam
+[2.378s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/environment/ament_prefix_path.sh
+[2.378s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/environment/ament_prefix_path.dsv
+[2.378s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/environment/path.sh
+[2.378s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/environment/path.dsv
+[2.378s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/local_setup.bash
+[2.378s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/local_setup.sh
+[2.378s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/local_setup.zsh
+[2.379s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/local_setup.dsv
+[2.379s] -- Symlinking: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/package.dsv
+[2.384s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/ament_index/resource_index/packages/rtabmap_slam
+[2.384s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/ament_index/resource_index/rclcpp_components/rtabmap_slam
+[2.384s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.384s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.384s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/cmake/ament_cmake_export_targets-extras.cmake
+[2.384s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/cmake/ament_cmake_export_libraries-extras.cmake
+[2.384s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/cmake/rtabmap_slamConfig.cmake
+[2.384s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/cmake/rtabmap_slamConfig-version.cmake
+[2.385s] -- Up-to-date symlink: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/package.xml
+[2.385s] -- Up-to-date: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/lib/librtabmap_slam_plugins.so
+[2.385s] -- Up-to-date: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/include
+[2.385s] -- Up-to-date: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/include/rtabmap_slam
+[2.385s] -- Up-to-date: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/include/rtabmap_slam/CoreWrapper.h
+[2.385s] -- Up-to-date: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/include/rtabmap_slam/visibility.h
+[2.386s] -- Up-to-date: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/cmake/rtabmap_slamExport.cmake
+[2.386s] -- Up-to-date: /home/jverga/rtabmap_ros2_ws/install/rtabmap_slam/share/rtabmap_slam/cmake/rtabmap_slamExport-noconfig.cmake
+[2.387s] Invoked command in '/home/jverga/rtabmap_ros2_ws/build/rtabmap_slam' returned '0': AMENT_PREFIX_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs:/home/jverga/combined_ros2_ws/install/point_lio:/home/jverga/realsense_ws/install/realsense2_description:/home/jverga/realsense_ws/install/realsense2_camera:/home/jverga/realsense_ws/install/realsense2_camera_msgs:/home/jverga/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2:/home/jverga/unilidar_sdk2/unitree_lidar_ros2/catkin_point_lio_unilidar/install/point_lio:/home/jverga/unilidar_sdk2/install/unitree_lidar_ros2:/home/jverga/combined_ros2_ws/install/odometry_fusion:/opt/ros/humble LD_LIBRARY_PATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_util/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_sync/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_conversions/lib:/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/jverga/rtabmap_ros2_ws/install/rtabmap_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/jverga/rtabmap_ros2_ws/build/rtabmap_slam
