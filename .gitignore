@@ -1,1 +1,5 @@
 *:Zone.Identifier
+
+# Build artifacts
+build/
+install/\log/
