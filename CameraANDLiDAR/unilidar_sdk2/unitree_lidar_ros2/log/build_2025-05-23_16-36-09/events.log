@@ -1,0 +1,210 @@
+[0.000000] (-) TimerEvent: {}
+[0.000104] (unitree_lidar_ros2) JobQueued: {'identifier': 'unitree_lidar_ros2', 'dependencies': OrderedDict()}
+[0.000143] (unitree_lidar_ros2) JobStarted: {'identifier': 'unitree_lidar_ros2'}
+[0.005085] (unitree_lidar_ros2) JobProgress: {'identifier': 'unitree_lidar_ros2', 'progress': 'cmake'}
+[0.005375] (unitree_lidar_ros2) Command: {'cmd': ['/usr/bin/cmake', '/home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/src/unitree_lidar_ros2', '-DCMAKE_INSTALL_PREFIX=/home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2'], 'cwd': '/home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/build/unitree_lidar_ros2', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'jverga'), ('XDG_SESSION_TYPE', 'x11'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/jverga/install/realsense2_camera_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/jverga'), ('OLDPWD', '/home/jverga/CameraANDLiDAR/unilidar_sdk2'), ('DESKTOP_SESSION', 'ubuntu'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('SYSTEMD_EXEC_PID', '4390'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/542352253/bus'), ('COLORTERM', 'truecolor'), ('LIBVIRT_DEFAULT_URI', 'qemu:///system'), ('COLCON_PREFIX_PATH', '/home/jverga/CameraANDLiDAR/install:/home/jverga/install:/home/jverga/combined_ros2_ws/install:/home/jverga/lvi_sam_ws/install:/home/jverga/combined_ros2_ws/src/install'), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'jverga'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('PKG_CONFIG_PATH', '/home/jverga/install/gtsam/lib/x86_64-linux-gnu/pkgconfig:/home/jverga/install/gtsam/lib/pkgconfig'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'jverga'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/opt/ros/humble/bin:/home/jverga/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin'), ('SESSION_MANAGER', 'local/NERS-7S3BK44:@/tmp/.ICE-unix/4353,unix/NERS-7S3BK44:/tmp/.ICE-unix/4353'), ('XDG_MENU_PREFIX', 'gnome-'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/b1fd30b9_4642_4dca_ab8e_9244db60940a'), ('XDG_RUNTIME_DIR', '/run/user/542352253'), ('DISPLAY', ':1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/542352253/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('GNOME_TERMINAL_SERVICE', ':1.91'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/542352253/keyring/ssh'), ('AMENT_PREFIX_PATH', '/home/jverga/install/realsense2_camera_msgs:/home/jverga/combined_ros2_ws/install/point_lio:/home/jverga/combined_ros2_ws/install/odometry_fusion:/home/jverga/combined_ros2_ws/src/install/point_lio:/home/jverga/combined_ros2_ws/src/install/odometry_fusion:/opt/ros/humble'), ('SHELL', '/bin/bash'), ('KRB5CCNAME', 'FILE:/tmp/krb5cc_542352253_K480Qs'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('GPG_AGENT_INFO', '/run/user/542352253/gnupg/S.gpg-agent:0:1'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/build/unitree_lidar_ros2'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/jverga/install/realsense2_camera_msgs/local/lib/python3.10/dist-packages:/home/jverga/combined_ros2_ws/build/odometry_fusion:/home/jverga/combined_ros2_ws/install/odometry_fusion/lib/python3.10/site-packages:/home/jverga/combined_ros2_ws/src/build/odometry_fusion:/home/jverga/combined_ros2_ws/src/install/odometry_fusion/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('VTE_VERSION', '6800'), ('CMAKE_PREFIX_PATH', '/home/jverga/install/realsense2_camera_msgs:/home/jverga/combined_ros2_ws/install/point_lio:/home/jverga/combined_ros2_ws/src/install/point_lio:/home/jverga/combined_ros2_ws/install/odometry_fusion:/home/jverga/combined_ros2_ws/src/install/odometry_fusion:/opt/ros/humble')]), 'shell': False}
+[0.042149] (unitree_lidar_ros2) StdoutLine: {'line': b'-- The C compiler identification is GNU 11.4.0\n'}
+[0.073937] (unitree_lidar_ros2) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 11.4.0\n'}
+[0.077635] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[0.099681] (-) TimerEvent: {}
+[0.122390] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[0.126770] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[0.126889] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[0.127087] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[0.128714] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[0.178685] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[0.182203] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[0.182350] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[0.182570] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[0.184243] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)\n'}
+[0.199733] (-) TimerEvent: {}
+[0.290825] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter \n'}
+[0.299803] (-) TimerEvent: {}
+[0.344389] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)\n'}
+[0.371012] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)\n'}
+[0.374126] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)\n'}
+[0.379039] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)\n'}
+[0.385733] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[0.394725] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[0.399909] (-) TimerEvent: {}
+[0.419827] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)\n'}
+[0.421586] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)\n'}
+[0.477529] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  \n'}
+[0.493436] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found FastRTPS: /opt/ros/humble/include  \n'}
+[0.500002] (-) TimerEvent: {}
+[0.518156] (unitree_lidar_ros2) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_fastrtps_cpp' as default\n"}
+[0.523609] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Looking for pthread.h\n'}
+[0.569651] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Looking for pthread.h - found\n'}
+[0.569975] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD\n'}
+[0.600078] (-) TimerEvent: {}
+[0.614092] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success\n'}
+[0.614667] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found Threads: TRUE  \n'}
+[0.642736] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found geometry_msgs: 4.8.0 (/opt/ros/humble/share/geometry_msgs/cmake)\n'}
+[0.649643] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found pcl_conversions: 2.4.5 (/opt/ros/humble/share/pcl_conversions/cmake)\n'}
+[0.682144] (unitree_lidar_ros2) StdoutLine: {'line': b"-- Checking for module 'eigen3'\n"}
+[0.691916] (unitree_lidar_ros2) StdoutLine: {'line': b'--   Found eigen3, version 3.4.0\n'}
+[0.700138] (-) TimerEvent: {}
+[0.713595] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found Eigen: /usr/include/eigen3 (Required is at least version "3.1") \n'}
+[0.713656] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Eigen found (include: /usr/include/eigen3, version: 3.4.0)\n'}
+[0.736091] (unitree_lidar_ros2) StdoutLine: {'line': b"-- Checking for module 'flann'\n"}
+[0.744969] (unitree_lidar_ros2) StdoutLine: {'line': b'--   Found flann, version 1.9.1\n'}
+[0.769741] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found FLANN: /usr/lib/x86_64-linux-gnu/libflann_cpp.so  \n'}
+[0.769832] (unitree_lidar_ros2) StdoutLine: {'line': b'-- FLANN found (include: /usr/include, lib: /usr/lib/x86_64-linux-gnu/libflann_cpp.so)\n'}
+[0.800197] (-) TimerEvent: {}
+[0.900429] (-) TimerEvent: {}
+[1.000622] (-) TimerEvent: {}
+[1.100824] (-) TimerEvent: {}
+[1.201023] (-) TimerEvent: {}
+[1.301331] (-) TimerEvent: {}
+[1.345768] (unitree_lidar_ros2) StdoutLine: {'line': b"-- Checking for module 'libusb-1.0'\n"}
+[1.354710] (unitree_lidar_ros2) StdoutLine: {'line': b'--   Found libusb-1.0, version 1.0.25\n'}
+[1.377988] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found libusb: /usr/lib/x86_64-linux-gnu/libusb-1.0.so  \n'}
+[1.378756] (unitree_lidar_ros2) StdoutLine: {'line': b'-- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)\n'}
+[1.401430] (-) TimerEvent: {}
+[1.414951] (unitree_lidar_ros2) StdoutLine: {'line': b'-- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)\n'}
+[1.500282] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Eigen found (include: /usr/include/eigen3, version: 3.4.0)\n'}
+[1.501480] (-) TimerEvent: {}
+[1.504228] (unitree_lidar_ros2) StdoutLine: {'line': b'-- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)\n'}
+[1.508273] (unitree_lidar_ros2) StdoutLine: {'line': b'-- OpenNI2 found (version: 2.2.0.33, include: /usr/include/openni2, lib: /usr/lib/x86_64-linux-gnu/libOpenNI2.so;libusb::libusb)\n'}
+[1.587960] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found Qhull version 8.0.2\n'}
+[1.601657] (-) TimerEvent: {}
+[1.671631] (unitree_lidar_ros2) StdoutLine: {'line': b'-- OpenNI found (version: 1.5.4.0, include: /usr/include/ni, lib: /usr/lib/libOpenNI.so;libusb::libusb)\n'}
+[1.701732] (-) TimerEvent: {}
+[1.750282] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_COMMON: /usr/lib/x86_64-linux-gnu/libpcl_common.so  \n'}
+[1.750591] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_KDTREE: /usr/lib/x86_64-linux-gnu/libpcl_kdtree.so  \n'}
+[1.750999] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_OCTREE: /usr/lib/x86_64-linux-gnu/libpcl_octree.so  \n'}
+[1.751411] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_SEARCH: /usr/lib/x86_64-linux-gnu/libpcl_search.so  \n'}
+[1.751825] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_SAMPLE_CONSENSUS: /usr/lib/x86_64-linux-gnu/libpcl_sample_consensus.so  \n'}
+[1.752166] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_FILTERS: /usr/lib/x86_64-linux-gnu/libpcl_filters.so  \n'}
+[1.752390] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_2D: /usr/include/pcl-1.12  \n'}
+[1.752602] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_GEOMETRY: /usr/include/pcl-1.12  \n'}
+[1.753014] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_IO: /usr/lib/x86_64-linux-gnu/libpcl_io.so  \n'}
+[1.753493] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_FEATURES: /usr/lib/x86_64-linux-gnu/libpcl_features.so  \n'}
+[1.753905] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_ML: /usr/lib/x86_64-linux-gnu/libpcl_ml.so  \n'}
+[1.754340] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_SEGMENTATION: /usr/lib/x86_64-linux-gnu/libpcl_segmentation.so  \n'}
+[1.754818] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_VISUALIZATION: /usr/lib/x86_64-linux-gnu/libpcl_visualization.so  \n'}
+[1.755292] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_SURFACE: /usr/lib/x86_64-linux-gnu/libpcl_surface.so  \n'}
+[1.755745] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_REGISTRATION: /usr/lib/x86_64-linux-gnu/libpcl_registration.so  \n'}
+[1.756221] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_KEYPOINTS: /usr/lib/x86_64-linux-gnu/libpcl_keypoints.so  \n'}
+[1.756686] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_TRACKING: /usr/lib/x86_64-linux-gnu/libpcl_tracking.so  \n'}
+[1.757144] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_RECOGNITION: /usr/lib/x86_64-linux-gnu/libpcl_recognition.so  \n'}
+[1.757631] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_STEREO: /usr/lib/x86_64-linux-gnu/libpcl_stereo.so  \n'}
+[1.758058] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_APPS: /usr/lib/x86_64-linux-gnu/libpcl_apps.so  \n'}
+[1.758444] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_IN_HAND_SCANNER: /usr/include/pcl-1.12  \n'}
+[1.758607] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_MODELER: /usr/include/pcl-1.12  \n'}
+[1.758775] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_POINT_CLOUD_EDITOR: /usr/include/pcl-1.12  \n'}
+[1.759195] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_OUTOFCORE: /usr/lib/x86_64-linux-gnu/libpcl_outofcore.so  \n'}
+[1.759655] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found PCL_PEOPLE: /usr/lib/x86_64-linux-gnu/libpcl_people.so  \n'}
+[1.760705] (unitree_lidar_ros2) StderrLine: {'line': b'\x1b[33mCMake Warning (dev) at CMakeLists.txt:23 (find_package):\n'}
+[1.760748] (unitree_lidar_ros2) StderrLine: {'line': b'  Policy CMP0074 is not set: find_package uses <PackageName>_ROOT variables.\n'}
+[1.760773] (unitree_lidar_ros2) StderrLine: {'line': b'  Run "cmake --help-policy CMP0074" for policy details.  Use the cmake_policy\n'}
+[1.760795] (unitree_lidar_ros2) StderrLine: {'line': b'  command to set the policy and suppress this warning.\n'}
+[1.760817] (unitree_lidar_ros2) StderrLine: {'line': b'\n'}
+[1.760838] (unitree_lidar_ros2) StderrLine: {'line': b'  CMake variable PCL_ROOT is set to:\n'}
+[1.760859] (unitree_lidar_ros2) StderrLine: {'line': b'\n'}
+[1.760880] (unitree_lidar_ros2) StderrLine: {'line': b'    /usr\n'}
+[1.760903] (unitree_lidar_ros2) StderrLine: {'line': b'\n'}
+[1.760923] (unitree_lidar_ros2) StderrLine: {'line': b'  For compatibility, CMake is ignoring the variable.\n'}
+[1.760945] (unitree_lidar_ros2) StderrLine: {'line': b'This warning is for project developers.  Use -Wno-dev to suppress it.\n'}
+[1.760967] (unitree_lidar_ros2) StderrLine: {'line': b'\x1b[0m\n'}
+[1.765822] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Found tf2_ros: 0.25.12 (/opt/ros/humble/share/tf2_ros/cmake)\n'}
+[1.801897] (-) TimerEvent: {}
+[1.856995] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Configuring done\n'}
+[1.876496] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Generating done\n'}
+[1.881774] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Build files have been written to: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/build/unitree_lidar_ros2\n'}
+[1.891350] (unitree_lidar_ros2) CommandEnded: {'returncode': 0}
+[1.891730] (unitree_lidar_ros2) JobProgress: {'identifier': 'unitree_lidar_ros2', 'progress': 'build'}
+[1.892117] (unitree_lidar_ros2) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/build/unitree_lidar_ros2', '--', '-j28', '-l28'], 'cwd': '/home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/build/unitree_lidar_ros2', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'jverga'), ('XDG_SESSION_TYPE', 'x11'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/jverga/install/realsense2_camera_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/jverga'), ('OLDPWD', '/home/jverga/CameraANDLiDAR/unilidar_sdk2'), ('DESKTOP_SESSION', 'ubuntu'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('SYSTEMD_EXEC_PID', '4390'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/542352253/bus'), ('COLORTERM', 'truecolor'), ('LIBVIRT_DEFAULT_URI', 'qemu:///system'), ('COLCON_PREFIX_PATH', '/home/jverga/CameraANDLiDAR/install:/home/jverga/install:/home/jverga/combined_ros2_ws/install:/home/jverga/lvi_sam_ws/install:/home/jverga/combined_ros2_ws/src/install'), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'jverga'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('PKG_CONFIG_PATH', '/home/jverga/install/gtsam/lib/x86_64-linux-gnu/pkgconfig:/home/jverga/install/gtsam/lib/pkgconfig'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'jverga'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/opt/ros/humble/bin:/home/jverga/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin'), ('SESSION_MANAGER', 'local/NERS-7S3BK44:@/tmp/.ICE-unix/4353,unix/NERS-7S3BK44:/tmp/.ICE-unix/4353'), ('XDG_MENU_PREFIX', 'gnome-'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/b1fd30b9_4642_4dca_ab8e_9244db60940a'), ('XDG_RUNTIME_DIR', '/run/user/542352253'), ('DISPLAY', ':1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/542352253/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('GNOME_TERMINAL_SERVICE', ':1.91'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/542352253/keyring/ssh'), ('AMENT_PREFIX_PATH', '/home/jverga/install/realsense2_camera_msgs:/home/jverga/combined_ros2_ws/install/point_lio:/home/jverga/combined_ros2_ws/install/odometry_fusion:/home/jverga/combined_ros2_ws/src/install/point_lio:/home/jverga/combined_ros2_ws/src/install/odometry_fusion:/opt/ros/humble'), ('SHELL', '/bin/bash'), ('KRB5CCNAME', 'FILE:/tmp/krb5cc_542352253_K480Qs'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('GPG_AGENT_INFO', '/run/user/542352253/gnupg/S.gpg-agent:0:1'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/build/unitree_lidar_ros2'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/jverga/install/realsense2_camera_msgs/local/lib/python3.10/dist-packages:/home/jverga/combined_ros2_ws/build/odometry_fusion:/home/jverga/combined_ros2_ws/install/odometry_fusion/lib/python3.10/site-packages:/home/jverga/combined_ros2_ws/src/build/odometry_fusion:/home/jverga/combined_ros2_ws/src/install/odometry_fusion/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('VTE_VERSION', '6800'), ('CMAKE_PREFIX_PATH', '/home/jverga/install/realsense2_camera_msgs:/home/jverga/combined_ros2_ws/install/point_lio:/home/jverga/combined_ros2_ws/src/install/point_lio:/home/jverga/combined_ros2_ws/install/odometry_fusion:/home/jverga/combined_ros2_ws/src/install/odometry_fusion:/opt/ros/humble')]), 'shell': False}
+[1.901958] (-) TimerEvent: {}
+[1.927555] (unitree_lidar_ros2) StdoutLine: {'line': b'[ 50%] \x1b[32mBuilding CXX object CMakeFiles/unitree_lidar_ros2_node.dir/src/unitree_lidar_ros2_node.cpp.o\x1b[0m\n'}
+[2.002152] (-) TimerEvent: {}
+[2.102460] (-) TimerEvent: {}
+[2.202666] (-) TimerEvent: {}
+[2.302975] (-) TimerEvent: {}
+[2.403283] (-) TimerEvent: {}
+[2.503614] (-) TimerEvent: {}
+[2.603939] (-) TimerEvent: {}
+[2.704265] (-) TimerEvent: {}
+[2.804590] (-) TimerEvent: {}
+[2.904929] (-) TimerEvent: {}
+[3.005256] (-) TimerEvent: {}
+[3.105560] (-) TimerEvent: {}
+[3.205858] (-) TimerEvent: {}
+[3.306158] (-) TimerEvent: {}
+[3.406464] (-) TimerEvent: {}
+[3.506767] (-) TimerEvent: {}
+[3.607083] (-) TimerEvent: {}
+[3.707447] (-) TimerEvent: {}
+[3.807741] (-) TimerEvent: {}
+[3.908055] (-) TimerEvent: {}
+[4.008379] (-) TimerEvent: {}
+[4.108686] (-) TimerEvent: {}
+[4.209001] (-) TimerEvent: {}
+[4.309457] (-) TimerEvent: {}
+[4.409769] (-) TimerEvent: {}
+[4.509982] (-) TimerEvent: {}
+[4.610201] (-) TimerEvent: {}
+[4.710398] (-) TimerEvent: {}
+[4.810705] (-) TimerEvent: {}
+[4.911005] (-) TimerEvent: {}
+[5.011333] (-) TimerEvent: {}
+[5.111634] (-) TimerEvent: {}
+[5.211965] (-) TimerEvent: {}
+[5.312292] (-) TimerEvent: {}
+[5.412636] (-) TimerEvent: {}
+[5.512951] (-) TimerEvent: {}
+[5.613263] (-) TimerEvent: {}
+[5.713589] (-) TimerEvent: {}
+[5.813901] (-) TimerEvent: {}
+[5.914233] (-) TimerEvent: {}
+[6.014569] (-) TimerEvent: {}
+[6.114892] (-) TimerEvent: {}
+[6.215197] (-) TimerEvent: {}
+[6.315500] (-) TimerEvent: {}
+[6.415808] (-) TimerEvent: {}
+[6.516119] (-) TimerEvent: {}
+[6.616533] (-) TimerEvent: {}
+[6.716782] (-) TimerEvent: {}
+[6.817009] (-) TimerEvent: {}
+[6.917218] (-) TimerEvent: {}
+[7.017432] (-) TimerEvent: {}
+[7.117737] (-) TimerEvent: {}
+[7.218047] (-) TimerEvent: {}
+[7.318354] (-) TimerEvent: {}
+[7.418665] (-) TimerEvent: {}
+[7.518981] (-) TimerEvent: {}
+[7.619255] (-) TimerEvent: {}
+[7.719562] (-) TimerEvent: {}
+[7.819776] (-) TimerEvent: {}
+[7.915085] (unitree_lidar_ros2) StdoutLine: {'line': b'[100%] \x1b[32m\x1b[1mLinking CXX executable unitree_lidar_ros2_node\x1b[0m\n'}
+[7.919829] (-) TimerEvent: {}
+[8.020085] (-) TimerEvent: {}
+[8.120527] (-) TimerEvent: {}
+[8.188108] (unitree_lidar_ros2) StdoutLine: {'line': b'[100%] Built target unitree_lidar_ros2_node\n'}
+[8.197816] (unitree_lidar_ros2) CommandEnded: {'returncode': 0}
+[8.198144] (unitree_lidar_ros2) JobProgress: {'identifier': 'unitree_lidar_ros2', 'progress': 'install'}
+[8.204291] (unitree_lidar_ros2) Command: {'cmd': ['/usr/bin/cmake', '--install', '/home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/build/unitree_lidar_ros2'], 'cwd': '/home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/build/unitree_lidar_ros2', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'jverga'), ('XDG_SESSION_TYPE', 'x11'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/jverga/install/realsense2_camera_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/jverga'), ('OLDPWD', '/home/jverga/CameraANDLiDAR/unilidar_sdk2'), ('DESKTOP_SESSION', 'ubuntu'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('SYSTEMD_EXEC_PID', '4390'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/542352253/bus'), ('COLORTERM', 'truecolor'), ('LIBVIRT_DEFAULT_URI', 'qemu:///system'), ('COLCON_PREFIX_PATH', '/home/jverga/CameraANDLiDAR/install:/home/jverga/install:/home/jverga/combined_ros2_ws/install:/home/jverga/lvi_sam_ws/install:/home/jverga/combined_ros2_ws/src/install'), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'jverga'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('PKG_CONFIG_PATH', '/home/jverga/install/gtsam/lib/x86_64-linux-gnu/pkgconfig:/home/jverga/install/gtsam/lib/pkgconfig'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'jverga'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/opt/ros/humble/bin:/home/jverga/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin'), ('SESSION_MANAGER', 'local/NERS-7S3BK44:@/tmp/.ICE-unix/4353,unix/NERS-7S3BK44:/tmp/.ICE-unix/4353'), ('XDG_MENU_PREFIX', 'gnome-'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/b1fd30b9_4642_4dca_ab8e_9244db60940a'), ('XDG_RUNTIME_DIR', '/run/user/542352253'), ('DISPLAY', ':1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/542352253/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('GNOME_TERMINAL_SERVICE', ':1.91'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/542352253/keyring/ssh'), ('AMENT_PREFIX_PATH', '/home/jverga/install/realsense2_camera_msgs:/home/jverga/combined_ros2_ws/install/point_lio:/home/jverga/combined_ros2_ws/install/odometry_fusion:/home/jverga/combined_ros2_ws/src/install/point_lio:/home/jverga/combined_ros2_ws/src/install/odometry_fusion:/opt/ros/humble'), ('SHELL', '/bin/bash'), ('KRB5CCNAME', 'FILE:/tmp/krb5cc_542352253_K480Qs'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('GPG_AGENT_INFO', '/run/user/542352253/gnupg/S.gpg-agent:0:1'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/build/unitree_lidar_ros2'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/jverga/install/realsense2_camera_msgs/local/lib/python3.10/dist-packages:/home/jverga/combined_ros2_ws/build/odometry_fusion:/home/jverga/combined_ros2_ws/install/odometry_fusion/lib/python3.10/site-packages:/home/jverga/combined_ros2_ws/src/build/odometry_fusion:/home/jverga/combined_ros2_ws/src/install/odometry_fusion/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('VTE_VERSION', '6800'), ('CMAKE_PREFIX_PATH', '/home/jverga/install/realsense2_camera_msgs:/home/jverga/combined_ros2_ws/install/point_lio:/home/jverga/combined_ros2_ws/src/install/point_lio:/home/jverga/combined_ros2_ws/install/odometry_fusion:/home/jverga/combined_ros2_ws/src/install/odometry_fusion:/opt/ros/humble')]), 'shell': False}
+[8.208466] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[8.208523] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/lib/unitree_lidar_ros2/unitree_lidar_ros2_node\n'}
+[8.209670] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Set runtime path of "/home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/lib/unitree_lidar_ros2/unitree_lidar_ros2_node" to ""\n'}
+[8.209743] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/share/unitree_lidar_ros2/view.rviz\n'}
+[8.209781] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/share/unitree_lidar_ros2/launch.py\n'}
+[8.209808] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/share/ament_index/resource_index/package_run_dependencies/unitree_lidar_ros2\n'}
+[8.209865] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/share/ament_index/resource_index/parent_prefix_path/unitree_lidar_ros2\n'}
+[8.210012] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/share/unitree_lidar_ros2/environment/ament_prefix_path.sh\n'}
+[8.210120] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/share/unitree_lidar_ros2/environment/ament_prefix_path.dsv\n'}
+[8.210214] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/share/unitree_lidar_ros2/environment/path.sh\n'}
+[8.210284] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/share/unitree_lidar_ros2/environment/path.dsv\n'}
+[8.210339] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/share/unitree_lidar_ros2/local_setup.bash\n'}
+[8.210405] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/share/unitree_lidar_ros2/local_setup.sh\n'}
+[8.210469] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/share/unitree_lidar_ros2/local_setup.zsh\n'}
+[8.210534] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/share/unitree_lidar_ros2/local_setup.dsv\n'}
+[8.210596] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/share/unitree_lidar_ros2/package.dsv\n'}
+[8.210768] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/share/ament_index/resource_index/packages/unitree_lidar_ros2\n'}
+[8.210865] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/share/unitree_lidar_ros2/cmake/unitree_lidar_ros2Config.cmake\n'}
+[8.210952] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/share/unitree_lidar_ros2/cmake/unitree_lidar_ros2Config-version.cmake\n'}
+[8.211112] (unitree_lidar_ros2) StdoutLine: {'line': b'-- Installing: /home/jverga/CameraANDLiDAR/unilidar_sdk2/unitree_lidar_ros2/install/unitree_lidar_ros2/share/unitree_lidar_ros2/package.xml\n'}
+[8.211978] (unitree_lidar_ros2) CommandEnded: {'returncode': 0}
+[8.220629] (-) TimerEvent: {}
+[8.224573] (unitree_lidar_ros2) JobEnded: {'identifier': 'unitree_lidar_ros2', 'rc': 0}
+[8.225039] (-) EventReactorShutdown: {}
