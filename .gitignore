@@ -1,5 +1,10 @@
-*:Zone.Identifier
-
-# Build artifacts
+# Build artifacts and logs
 build/
-install/\log/
+install/
+log/
+
+# Archives
+*.zip
+
+# Ignore Zone Identifier files
+*:Zone.Identifier
