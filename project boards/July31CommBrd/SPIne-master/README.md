@@ -6,6 +6,7 @@ This directory contains the design files for a modified, cost-reduced version of
 The primary goal of this version is to lower costs and simplify in-house manufacturing.
 
 - **Reduced Size:** The PCB dimensions have been significantly decreased to lower the cost of fabrication.
+- **Fit the OSH Park Rules** The PCB is changed so that it fits OSH parks rules (tracings, distance between components, other errors that occurred  when put into OSH Park Rules)
 
 ---
 ### Original Board Overview
