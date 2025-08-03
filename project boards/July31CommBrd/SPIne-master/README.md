@@ -6,7 +6,6 @@ This directory contains the design files for a modified, cost-reduced version of
 The primary goal of this version is to lower costs and simplify in-house manufacturing.
 
 - **Reduced Size:** The PCB dimensions have been significantly decreased to lower the cost of fabrication.
-- **Simplified Assembly:** Uses solder pads for connections instead of full components where possible.
 
 ---
 ### Original Board Overview
