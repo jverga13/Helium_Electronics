@@ -1,5 +1,5 @@
 # Helium_Electroincs
-This is the Repo where all the libraries and PBC Projects are accumulated.
+This is the Repo where all the libraries and PCB Projects are accumulated.
 
 The paper on which we are basing the majority of the electronics system is available here.
 
