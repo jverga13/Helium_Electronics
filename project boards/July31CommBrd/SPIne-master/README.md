@@ -30,6 +30,8 @@ For a complete breakdown of the original board's design, components, and system 
 
 **[📄 Helium Project - SPIne System Details](https://www.notion.so/atombot/The-Helium-Project-1a723e66a3218009b606e8f94d7b40a9?p=22423e66a321802cb875cee111c35315&pm=s)**
 
+**[📄 Microcontroller Choice Explanation Document](https://docs.google.com/document/d/166toBr8D5q9DAse6OPuDGO7630AuwiWQxv-KNbx1AGk/edit?usp=sharing)**
+
 **[📄 Original Github of SPIne Board](https://github.com/bgkatz/SPIne/tree/master/SPIne_V2)**
 
 <img width="822" height="987" alt="image (5)" src="https://github.com/user-attachments/assets/7a28f79e-760c-4ac3-b113-77467ea25711" />
