@@ -28,6 +28,7 @@ The diagram below illustrates how the boards connect to each other and to the ro
 
 **Responsibilities**:
 - Provides a high-current 24V rail to power the twelve motor actuators.
+- Provides a low-current 1A 5V rail to power the LiDAR.
 - Includes a pre-charge circuit to safely manage the large inrush of current to the motor controllers' capacitors upon startup.
 - Generates a clean, regulated 5V DC "logic power" supply that runs the SPIne board and the main computer (Jetson/UP Board).
 
