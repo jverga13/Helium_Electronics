@@ -32,7 +32,7 @@ The diagram below illustrates how the boards connect to each other and to the ro
 - Includes a pre-charge circuit to safely manage the large inrush of current to the motor controllers' capacitors upon startup.
 - Generates a clean, regulated 5V DC "logic power" supply that runs the SPIne board and the Jetson/UP Board (which is connected to the camera via USB).
 
-### SPIne (Communication Board)
+### SPIne (Communication Board) (July31CommBrd/SPIne-master)
 
 **Function**: The SPIne serves as the real-time "nervous system" of the robot, acting as a high-speed communication bridge between the robot's "brain" (the Jetson/UP Board) and the "muscles" (the motors).
 
