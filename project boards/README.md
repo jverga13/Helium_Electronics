@@ -3,7 +3,7 @@
 This directory contains the design files for the custom Printed Circuit Boards (PCBs) that form the core of the robot's electronic system. The architecture is designed to safely manage power and handle the high-speed, real-time communication necessary for dynamic locomotion. The system consists of three primary components:
 
 - **Battery Management System (BMS)**
-- **Power Supply Unit (PSU)**
+- **Power Supply Unit (PDB)**
 - **SPIne Communication Board**
 
 ## Board Interconnection and Function
@@ -22,9 +22,9 @@ The diagram below illustrates how the boards connect to each other and to the ro
   - Cell balancing
   - Protection against over-charge, over-discharge, short-circuits, and overheating
 
-### PSU (Power Supply Unit)
+### PDB (Power Supply Unit)
 
-**Function**: The PSU acts as the central power hub, taking the raw 24V from the battery's BMS and conditioning it for distribution to all other parts of the robot.
+**Function**: The PDB acts as the central power hub, taking the raw 24V from the battery's BMS and conditioning it for distribution to all other parts of the robot.
 
 **Responsibilities**:
 - Provides a high-current 24V rail to power the twelve motor actuators.
