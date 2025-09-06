@@ -1,60 +1,141 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\jpvgo\OneDrive\Documents\Atombot Fase 2\Helium_Electronics\July31CommBrd\SPIne-master\SPIne_V2\SPIne\Imported spine.PrjPcb\spine.PcbDoc
-Date     : 7/31/2025
-Time     : 2:30:08 PM
+PCB File : N:\newer_SPINE\Helium_Electronics\project boards\July31CommBrd\SPIne-master\SPIne_V2\SPIne\Imported spine.PrjPcb\spine.PcbDoc
+Date     : 9/6/2025
+Time     : 2:46:18 PM
 
-Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
-Rule Violations :0
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Track (11.04mm,55.36mm)(13.37mm,55.36mm) on Top And Track (13.39mm,55.38mm)(17.28mm,55.38mm) on Top 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Track (13.37mm,55.36mm)(13.39mm,55.38mm) on Top And Track (13.39mm,55.38mm)(17.28mm,55.38mm) on Top 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Track (20.83mm,3.671mm)(20.83mm,9.869mm) on Top And Track (20.83mm,9.869mm)(21.97mm,11.009mm) on Top 
+Rule Violations :3
 
-Processing Rule : Clearance Constraint (Gap=0mil) (IsPad),(IsTrack)
+Processing Rule : Clearance Constraint (Gap=0mm) (IsPad),(IsTrack)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-Rule Violations :0
+   Violation between Short-Circuit Constraint: Between Pad C2-1(23.94mm,39.55mm) on Top And Track (23.94mm,35.26mm)(23.94mm,39.55mm) on Top Location : [X = 23.94mm][Y = 39.376mm]
+   Violation between Short-Circuit Constraint: Between Pad C2-1(23.94mm,39.55mm) on Top And Track (23.94mm,39.55mm)(25.15mm,39.55mm) on Top Location : [X = 24.089mm][Y = 39.55mm]
+   Violation between Short-Circuit Constraint: Between Pad C30-1(21.97mm,12.15mm) on Top And Track (21.97mm,11.009mm)(21.97mm,13.35mm) on Top Location : [X = 21.97mm][Y = 12.15mm]
+   Violation between Short-Circuit Constraint: Between Pad C3-1(13.39mm,55.38mm) on Top And Track (11.04mm,55.36mm)(13.37mm,55.36mm) on Top Location : [X = 13.231mm][Y = 55.36mm]
+   Violation between Short-Circuit Constraint: Between Pad C3-1(13.39mm,55.38mm) on Top And Track (13.37mm,55.36mm)(13.39mm,55.38mm) on Top Location : [X = 13.38mm][Y = 55.37mm]
+   Violation between Short-Circuit Constraint: Between Pad C31-1(26.26mm,32.83mm) on Top And Track (23.94mm,35.26mm)(26.26mm,32.94mm) on Top Location : [X = 26.111mm][Y = 33.059mm]
+   Violation between Short-Circuit Constraint: Between Pad C31-1(26.26mm,32.83mm) on Top And Track (25.76mm,31.84mm)(26.26mm,32.34mm) on Top Location : [X = 26.188mm][Y = 32.411mm]
+   Violation between Short-Circuit Constraint: Between Pad C31-1(26.26mm,32.83mm) on Top And Track (26.26mm,32.83mm)(26.26mm,32.94mm) on Top Location : [X = 26.26mm][Y = 32.885mm]
+   Violation between Short-Circuit Constraint: Between Pad C32-1(18mm,16.21mm) on Top And Track (18mm,16.21mm)(18.77mm,16.21mm) on Top Location : [X = 18.149mm][Y = 16.21mm]
+   Violation between Short-Circuit Constraint: Between Pad C5-1(27.21mm,54.41mm) on Top And Track (27.21mm,54.41mm)(27.22mm,54.4mm) on Top Location : [X = 27.215mm][Y = 54.405mm]
+   Violation between Short-Circuit Constraint: Between Pad C5-1(27.21mm,54.41mm) on Top And Track (27.22mm,54.4mm)(28.16mm,54.4mm) on Top Location : [X = 27.364mm][Y = 54.4mm]
+   Violation between Short-Circuit Constraint: Between Pad C9-1(25.02mm,16.4mm) on Top And Track (21.97mm,13.35mm)(25.02mm,16.4mm) on Top Location : [X = 24.871mm][Y = 16.226mm]
+   Violation between Short-Circuit Constraint: Between Pad C9-1(25.02mm,16.4mm) on Top And Track (25.02mm,16.4mm)(26.48mm,16.4mm) on Top Location : [X = 25.169mm][Y = 16.4mm]
+   Violation between Short-Circuit Constraint: Between Pad LED2-C(20.93mm,17.967mm) on Top And Track (20.96mm,18.88mm)(21.76mm,18.08mm) on Top Location : [X = 21.259mm][Y = 18.296mm]
+   Violation between Short-Circuit Constraint: Between Pad PROG1-1(10.265mm,53.72mm) on Top And Track (10.265mm,53.72mm)(10.265mm,54.585mm) on Top Location : [X = 10.265mm][Y = 53.769mm]
+   Violation between Short-Circuit Constraint: Between Pad U$3-19(18.4mm,20mm) on Top And Track (18.4mm,19.2mm)(18.4mm,20mm) on Top Location : [X = 18.4mm][Y = 19.851mm]
+   Violation between Short-Circuit Constraint: Between Pad VR1-2(20.83mm,9.869mm) on Top And Track (20.83mm,9.869mm)(21.97mm,11.009mm) on Top Location : [X = 21.034mm][Y = 10.216mm]
+   Violation between Short-Circuit Constraint: Between Track (11.04mm,55.36mm)(13.37mm,55.36mm) on Top And Track (13.39mm,55.38mm)(17.28mm,55.38mm) on Top Location : [X = 13.417mm][Y = 55.38mm]
+   Violation between Short-Circuit Constraint: Between Track (13.37mm,55.36mm)(13.39mm,55.38mm) on Top And Track (13.39mm,55.38mm)(17.28mm,55.38mm) on Top Location : [X = 13.427mm][Y = 55.38mm]
+   Violation between Short-Circuit Constraint: Between Track (20.83mm,3.671mm)(20.83mm,9.869mm) on Top And Track (20.83mm,9.869mm)(21.97mm,11.009mm) on Top Location : [X = 20.83mm][Y = 9.869mm]
+Rule Violations :20
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad C10-1(13.69mm,32.65mm) on Top And Pad C27-1(15.67mm,32.65mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad C10-1(13.69mm,32.65mm) on Top And Pad C6-1(14.18mm,41.21mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad PROG-1(10.745mm,31.16mm) on Top And Pad C10-1(13.69mm,32.65mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad C2-1(23.94mm,39.55mm) on Top And Pad C31-1(26.26mm,32.83mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad C2-1(23.94mm,39.55mm) on Top And Pad U$1-32(24.9mm,43.16mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad U$3-1(15.4mm,29.5mm) on Top And Pad C27-1(15.67mm,32.65mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad C27-1(15.67mm,32.65mm) on Top And Pad U$3-64(17.4mm,31.5mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad C30-1(21.97mm,12.15mm) on Top And Pad C9-1(25.02mm,16.4mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad VR1-2(20.83mm,9.869mm) on Top And Pad C30-1(21.97mm,12.15mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad PROG1-1(10.265mm,53.72mm) on Top And Pad C3-1(13.39mm,55.38mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad C31-1(26.26mm,32.83mm) on Top And Pad U$3-48(26.9mm,29.5mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad C32-1(18mm,16.21mm) on Top And Pad U$3-19(18.4mm,20mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad U$1-48(26.9mm,52.66mm) on Top And Pad C5-1(27.21mm,54.41mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad U$1-64(17.4mm,54.66mm) on Top And Pad C5-1(27.21mm,54.41mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad CHOKE1-1(9.36mm,42.22mm) on Top And Pad C6-1(14.18mm,41.21mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad C6-1(14.18mm,41.21mm) on Top And Pad U$1-19(18.4mm,43.16mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad U$3-32(24.9mm,20mm) on Top And Pad C9-1(25.02mm,16.4mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad CHOKE-1(9.67mm,20.57mm) on Top And Pad U$3-19(18.4mm,20mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad U$1-1(15.4mm,52.66mm) on Top And Pad U$1-64(17.4mm,54.66mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad U$1-19(18.4mm,43.16mm) on Top And Pad U$1-32(24.9mm,43.16mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad U$1-32(24.9mm,43.16mm) on Top And Pad U$1-48(26.9mm,52.66mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Track (15.53mm,55.39mm)(17.28mm,55.38mm) on Top And Pad U$1-64(17.4mm,54.66mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad U$3-19(18.4mm,20mm) on Top And Pad U$3-32(24.9mm,20mm) on Top 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad U$3-32(24.9mm,20mm) on Top And Pad U$3-48(26.9mm,29.5mm) on Top 
+   Violation between Un-Routed Net Constraint: Track (10.265mm,53.72mm)(10.265mm,54.585mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (10.265mm,54.585mm)(11.04mm,55.36mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (11.04mm,55.36mm)(13.37mm,55.36mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (13.37mm,55.36mm)(13.39mm,55.38mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (18.4mm,19.2mm)(18.4mm,20mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (18.4mm,19.2mm)(18.72mm,18.88mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (18.72mm,18.88mm)(20.96mm,18.88mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (18.77mm,16.21mm)(19.68mm,17.12mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (18mm,16.21mm)(18.77mm,16.21mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (19.68mm,17.12mm)(21.6mm,17.12mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (20.83mm,9.869mm)(21.97mm,11.009mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (20.96mm,18.88mm)(21.76mm,18.08mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (21.6mm,17.12mm)(21.63mm,17.09mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (21.76mm,17.28mm)(21.76mm,18.08mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (21.76mm,17.28mm)(21.95mm,17.09mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (21.95mm,17.09mm)(23.23mm,17.09mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (21.97mm,11.009mm)(21.97mm,13.35mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (21.97mm,13.35mm)(25.02mm,16.4mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (23.23mm,17.09mm)(24mm,16.32mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (23.94mm,35.26mm)(23.94mm,39.55mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (23.94mm,35.26mm)(26.26mm,32.94mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (23.94mm,39.55mm)(25.15mm,39.55mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (24mm,15.52mm)(24mm,16.32mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (25.02mm,16.4mm)(26.48mm,16.4mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (25.15mm,39.55mm)(28.16mm,42.56mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (25.76mm,30.88mm)(25.76mm,31.84mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (25.76mm,30.88mm)(26.56mm,30.08mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (25.76mm,31.84mm)(26.26mm,32.34mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (26.26mm,32.83mm)(26.26mm,32.94mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (26.48mm,16.4mm)(28.16mm,18.08mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (26.56mm,30.08mm)(28.16mm,30.08mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (27.21mm,54.41mm)(27.22mm,54.4mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (27.22mm,54.4mm)(28.16mm,54.4mm) on Top Dead Copper - Net Not Assigned.
+   Violation between Un-Routed Net Constraint: Track (28.16mm,18.08mm)(28.16mm,56.48mm) on Top Dead Copper - Net Not Assigned.
+Rule Violations :58
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=6mil) (Max=400mil) (Preferred=8mil) (All)
+Processing Rule : Width Constraint (Min=0.152mm) (Max=10.16mm) (Preferred=0.203mm) (All)
 Rule Violations :0
 
 Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=16mil) (Conductor Width=6mil) (Air Gap=6mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.406mm) (Conductor Width=0.152mm) (Air Gap=0.152mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Minimum Annular Ring (Minimum=7mil) (All)
+Processing Rule : Minimum Annular Ring (Minimum=0.178mm) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=10mil) (Max=265mil) (All)
+Processing Rule : Hole Size Constraint (Min=0.254mm) (Max=6.731mm) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=6mil) (IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=0.152mm) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 81
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
